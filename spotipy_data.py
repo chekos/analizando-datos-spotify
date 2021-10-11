@@ -28,6 +28,7 @@ def get_track_info(query):
     _track["track_number"] = track["track_number"]
     _track["type"] = track["type"]
     _track["uri"] = track["uri"]
+    _track['id'] = track['id']
 
     return _track
 
@@ -96,7 +97,28 @@ def save_artist_info():
         "csvs/artist_info.csv", encoding="utf-8", index=False
     )
 
+def save_audio_features():
+    conn = sqlite3.connect("mi_spotify.db")
+    cursor = conn.cursor()
+    get_tids_sql = """SELECT id FROM tracks_info;"""
+    q_results = cursor.execute(get_tids_sql).fetchall()
+    conn.close()
+    tids = [tid[0] for tid in q_results]
+    
+    # max 100 per batch
+    audio_features_list = []
+    batch_size = 99
+    for n in range(int(len(tids) / batch_size)+1):
+        start = n * batch_size
+        end = (n + 1) * batch_size
+        print(f"getting tids: {start} - {end}")  
+        for track in sp.audio_features(tids[start:end]):
+            audio_features_list.append(track)
+
+    audio_features_list = [item for item in audio_features_list if isinstance(item, dict)]
+    pd.DataFrame(audio_features_list).to_csv("csvs/audio_features.csv", encoding='utf-8', index = False)
 
 if __name__ == "__main__":
     # save_tracks_info()
-    save_artist_info()
+    # save_artist_info()
+    save_audio_features()
