@@ -43,3 +43,41 @@ databases:
         title: Canciones escuchadas
         description_html: |-
           <p>Todas las canciones escuchadas.</p>
+      tracks_audio_features:
+        sql: |-
+          select
+            tracks.artist,
+            tracks.track,
+            danceability,
+            energy,
+            [key],
+            loudness,
+            mode,
+            speechiness,
+            acousticness,
+            instrumentalness,
+            liveness,
+            valence,
+            tempo,
+            duration_ms,
+            time_signature
+          from
+            audio_features
+            left join (
+              select
+                distinct *
+              from
+                (
+                  select
+                    tracks_info.name as track,
+                    artist_info.name as artist,
+                    tracks_info.id as track_id,
+                    artist_info.id as artist_id
+                  from
+                    tracks_info
+                    inner join artist_info on substr(artists_ids, 3, 22) = artist_info.id
+                )
+            ) as tracks on audio_features.id = tracks.track_id
+        title: Características de los tracks 
+        description_html: |-
+          <p>Audio Features de todos los tracks escuchados</p>
