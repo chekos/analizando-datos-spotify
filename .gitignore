@@ -3,3 +3,4 @@
 MyData/
 .ipynb_checkpoints/
 *.zip
+.cache
