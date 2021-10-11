@@ -1,4 +1,4 @@
-platform,searchTime,searchQuery,searchInteractionURIs
+platform,search_time,search_query,search_interaction_uris
 IPHONE,2021-07-11T00:16:29.401Z[UTC],vice city,['spotify:track:2SIdGJTWirTxRNEyCp9ocI']
 IPHONE,2021-07-11T00:24:05.691Z[UTC],ab soul,['spotify:artist:0g9vAlRPK9Gt3FKCekk4TW']
 IPHONE,2021-07-11T03:27:52.664Z[UTC],de do,"['spotify:track:0ZMd3vx4pIcQyKAMWWvE8i', 'spotify:track:0ZMd3vx4pIcQyKAMWWvE8i']"
