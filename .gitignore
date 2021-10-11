@@ -5,3 +5,4 @@ MyData/
 *.zip
 .cache
 secrets.sh
+spotipy*.ipynb
