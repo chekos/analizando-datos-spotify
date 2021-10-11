@@ -4,3 +4,4 @@ MyData/
 .ipynb_checkpoints/
 *.zip
 .cache
+secrets.sh
