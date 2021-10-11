@@ -50,6 +50,7 @@ def get_artist_info(query):
     _artist["uri"] = artist["uri"]
     _artist["followers"] = artist["followers"]["total"]
     _artist["image_url"] = artist["images"][0]["url"]
+    _artist['id'] = artist['id']
 
     return _artist
 
@@ -100,7 +101,7 @@ def save_artist_info():
 def save_audio_features():
     conn = sqlite3.connect("mi_spotify.db")
     cursor = conn.cursor()
-    get_tids_sql = """SELECT id FROM tracks_info;"""
+    get_tids_sql = """SELECT distinct id FROM tracks_info;"""
     q_results = cursor.execute(get_tids_sql).fetchall()
     conn.close()
     tids = [tid[0] for tid in q_results]
