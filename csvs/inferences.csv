@@ -1,0 +1,1639 @@
+inferences
+1P_Custom_Discovery_Streamers
+1P_Custom_High_Intent_Streamers
+1P_Custom_Social_Gamers
+2P_AT&T_DirectTV_HHEC_0P1C_HAS_DTV > Y_28Feb2019_US [Do Not Use in 2021]
+2P_AT&T_HHEC_0P1B_HAS_TV > Y_10Apr2020_US [Do Not Use in 2021]
+2P_AT&T_HHEC_5P_MEB_HAS_TV_ONLY > Y_23Sept2020_US [Do Not Use in 2021]
+2P_AmeriSave_Refresh_AR_pre_2012-04-01_300k_500k_10-9_26Oct2020_US [Do Not Use in 2021]
+2P_Bank of America_LR MLT001_01_19Jan2021_US
+2P_Bank of America_Neustar MLT001_01_19Jan2021_US
+2P_Campbells_IRI_New R&W Buyers_12Dec2020_US
+2P_Chase Bank_PM14678_1_5October2020_US
+2P_Chase_Chase1PSegment 1_22September2020_US
+2P_Chase_PM7251_1 > 1_24Aug2019_US [Do Not Use in 2021]
+2P_Chase__Interest Shoppers_23September2020_US
+2P_Chase__Travel_23September2020_US
+2P_Comcast_All Subscribers_11Jul2019_US
+2P_Custom_Starbucks_SBX_cafevisitor_HHI_UberEATS_26August2020_US [Do Not Use in 2021]
+2P_Exxon__Station Splitters_18Feb2021_US
+2P_Fidelity_IXI _Investment Propensity_Active Traders_15Oct2020_US
+2P_Fidelity_IXI _Investment Propensity_Power ETF Investors_15Oct2020_US
+2P_GroupeConnect_Bank of America_Segment group A_02November2020_US
+2P_GroupeConnect_Bank of America_Segment group B_02November2020_US
+2P_HBO_NOW Lapsed_12March2020_US [Do Not Use in 2021]
+2P_HBO_Westworld Engagers_12March2020_US [Do Not Use in 2021]
+2P_Lays_Untroubled Relaxers_26August2020_US [Do Not Use in 2021]
+2P_MAID 1PD Campaign 2019_Dog_9July2020_US
+2P_Macy's_ Occasionalists_Test_90pct_23Sept2020_US [Do Not Use in 2021]
+2P_Macy's_05High AUR/AOV Engagement Potential - APR 2019 _Control_10pct_29April2019_US [Do Not Use in 2021]
+2P_Macy's_05High AUR/AOV Engagement Potential - APR 2019_29April2019_US [Do Not Use in 2021]
+2P_Macy's_08Single Purchaser - APR 2019_29April2019_US [Do Not Use in 2021]
+2P_Macy's_12 Month Active_28Jun2019_US [Do Not Use in 2021]
+2P_Macy's_12 month Active_Test_28Jun2019_US [Do Not Use in 2021]
+2P_Macy's_LR - 08Single Purchaser - APR 2019_Test_90pct_29April2019_US [Do Not Use in 2021]
+2P_Macy's_Occasionalists_23Sept2020_US [Do Not Use in 2021]
+2P_Macys_36 Month January 2019 - Test_90pct_2018-Dec-17_US [Do Not Use in 2021]
+2P_Macys_36MonthAugust2018_TTL-Spotify_Test_90pct_20180806_US [Do Not Use in 2021]
+2P_Macys_Macy's 36 Month November 2018 - Spotify_Test_90pct_20181025_US [Do Not Use in 2021]
+"2P_Metro_Metro 0 | 1P | LR, LRM, AA | Cookies, DIDs | Metro Base Suppression v2_11Mar2019_US"
+2P_Nexcare_IRI > Pain and Allergy Relief Purchasers Last 52W at Walgreens > Proscore_10July2020_US [Do Not Use in 2021]
+2P_Nexcare_IRI > Pain and Allergy Relief Purchasers Last 52W at Walmart > Proscore_10July2020_US [Do Not Use in 2021]
+2P_Nordstrom_2019_JWN_4Y_Current_Customers > 1_29Oct2019_US [Do Not Use in 2021]
+2P_Nordstrom_Jan2020_CurrCust_Lylty > 1_11Mar2020_US [Do Not Use in 2021]
+2P_P&G_IRI_Allergy or Cold Relief Buyers_14Jan2021_US
+2P_PepsiCo_Doritos Combined_08Jul2020_US [Do Not Use in 2021]
+2P_PepsiCo_Ruffles Combined_08Jul2020_US [Do Not Use in 2021]
+2P_Ruffles_Doritos_Emerging Adults_08July2020_US [Do Not Use in 2021]
+2P_Ruffles_Thriving Families_02-July-2020_US [Do Not Use in 2021]
+2P_Smartfood_Popcorn Full Only_09Jul2020_US [Do Not Use in 2021]
+2P_Smartfood_Popcorn Full and Light_09Jul2020_US [Do Not Use in 2021]
+2P_Starbucks_All Starbucks Rewards_Lapsed and Active_23Sept2020_US [Do Not Use in 2021]
+2P_Starbucks_Cold Brew Nitro_14August2020_US [Do Not Use in 2021]
+2P_Starbucks_Pushspring_Starbucks_Holiday Retail_Savy Spluger_29Oct2020_US [Do Not Use in 2021]
+2P_THD_CORE_GRILLS_AWR_22March2021_US
+2P_THD_SEA_PYG_AON_ACQ_1P_INDOORGARDENING_22March2021_US
+2P_UltaBeauty_AllAttributes_20180405_US [Do Not Use in 2021]
+2P_UltaBeauty_AllAudience_032918_US [Do Not Use in 2021]
+2P_UltaBeauty_BronzeMember_March2018_US [Do Not Use in 2021]
+2P_Ulta_test_type > Test - Cosmetics_2Mar2020_US [Do Not Use in 2021]
+2P_Walmart_SHA256_HW-AllShoppers-12mos-new > 1_11Mar2020_US [Do Not Use in 2021]
+2P_Walmart_luid_1007_31Jul2019_US [Do Not Use in 2021]
+2P_Walmart_luid_3395_31Jul2019_US [Do Not Use in 2021]
+2P_Wells Fargo_Mortgage_All Wells Fargo Customers_14Feb2020_US
+2P_Wells Fargo_WF-Paid-EC-NMD-CBD-1P-CRMDMP-March20-CHK Captures WF Checking_8July2020_US
+3P_ Custom_Low Calorie/Sugar Conscious Buyers_14Dec2020_US
+3P_ Custom_Low Calorie/Sugar Conscious Buyers_18Sept2019_US [Do Not Use in 2021]
+3P_ TV_Baseball TV Viewers_US [Do Not Use in 2021]
+3P_ TV_Basketball TV Viewers_US [Do Not Use in 2021]
+3P_ TV_Custom_Disney_Disney Plus Programming_27Oct2020_US [Do Not Use in 2021]
+3P_ TV_Custom_Peacock_NBC Custom Shows_17June2020_US [Do Not Use in 2021]
+3P_ TV_Daytime TV Viewers_US [Do Not Use in 2021]
+3P_ TV_Family TV Programming_US [Do Not Use in 2021]
+3P_ TV_Fight Night Viewers_US [Do Not Use in 2021]
+3P_ TV_Football TV Viewers_US [Do Not Use in 2021]
+3P_ TV_Heavy TV Viewers_US [Do Not Use in 2021]
+3P_ TV_Light TV Viewers_US [Do Not Use in 2021]
+3P_ TV_OTT Streamers_US [Do Not Use in 2021]
+3P_ TV_Premium_Christmas TV Specials_US [Do Not Use in 2021]
+3P_ TV_Premium_TV Networks_HBO_US [Do Not Use in 2021]
+3P_ TV_Premium_TV Networks_MTV_US [Do Not Use in 2021]
+3P_ TV_Premium_TV Networks_Showtime_US [Do Not Use in 2021]
+3P_ TV_Primetime TV Viewers_US [Do Not Use in 2021]
+3P_ TV_Reality TV Addicts_US [Do Not Use in 2021]
+3P_ TV_Sitcoms/Comedy Shows_US [Do Not Use in 2021]
+3P_ TV_Soccer Viewers_US [Do Not Use in 2021]
+3P_ TV_Sports TV Enthusiasts_US [Do Not Use in 2021]
+3P_ Thriller Movie Enthusiasts_AU
+3P_Action Enthusiasts_US
+3P_Action Gamers_FR
+3P_Action Movie Enthusiasts_AU
+3P_Action Movie Enthusiasts_ES
+3P_Action Movie Enthusiasts_FR
+3P_Action Movie Enthusiasts_UK
+3P_Adventure Movie Enthusiasts_FR
+3P_Affluent Households_IT
+3P_Affluent/High Income_AU
+3P_Alcohol Consumers_ES
+3P_Alcohol Consumers_IT
+3P_Alcohol Consumers_UK
+3P_AmazonBlackFriday_FR
+3P_American Sports Enthusiasts_IT
+3P_American_Steakhouse lovers_IT
+3P_Android Users_US
+3P_Animation TV & Movie Enthusiasts_AU
+3P_Apple Products_US
+3P_Apple iOS Users_AU
+3P_Apple iOS Users_CA
+3P_Apple iOS Users_DE
+3P_Apple iOS Users_ES
+3P_Apple iOS Users_FR
+3P_Apple iOS Users_IT
+3P_Apple iOS Users_UK
+3P_Appliance Shoppers_US
+3P_Architects_UK
+3P_ArmedForces_Veterans_US
+3P_Art and Design Enthusiasts_IT
+3P_Arts & Culture_FR
+3P_Arts & Culture_UK
+3P_Arts and Culture Enthusiasts_DE
+3P_Athletic Apparel Shoppers_US
+3P_Athletic Apparel_US
+3P_Auto Insurance Intenders_US
+3P_Auto Intenders / In-Market_AU
+3P_Auto Intenders / In-Market_CA
+3P_Auto Intenders / In-Market_US
+3P_Auto Part Buyers_US
+3P_BMW Enthusiast_IT
+3P_Bank Account Holders_ES
+3P_Baseball Fans_US
+3P_Basketball Enthusiasts_AU
+3P_Basketball Enthusiasts_DE
+3P_Basketball Enthusiasts_ES
+3P_Basketball Enthusiasts_FR
+3P_Basketball Enthusiasts_IT
+3P_Basketball Enthusiasts_UK
+3P_Beach Vacationers_US
+3P_Beer Consumers_UK
+3P_Beer Consumers_US
+3P_Beer Drinkers_AU
+3P_Beer Drinkers_DE
+3P_Beer Drinkers_ES
+3P_Beer Drinkers_FR
+3P_Beer Drinkers_IT
+3P_Beer Drinkers_UK
+3P_Big Box Retailer Shoppers_US
+3P_Black Friday and Cyber Monday Shoppers_US [Do Not Use in 2021]
+3P_Blue Collar Workers_US
+3P_Breakfast and Brunch Enthusiasts_US [Do Not Use in 2021]
+3P_Business Decision-Makers_DE
+3P_Business Decision-Makers_ES
+3P_Business Decision-Makers_FR
+3P_Business Decision-Makers_IT
+3P_Business Decision-Makers_UK
+3P_Business Travelers_US
+3P_Buy or Moved Homes_20Jul2020_US
+3P_Cable Subscribers_US
+3P_Cable TV Subscribers_US
+3P_Candy Buyers_US
+3P_Car Buyers_DE
+3P_Car Buyers_ES
+3P_Car Buyers_FR
+3P_Car Buyers_IT
+3P_Car Buyers_UK
+3P_Car Enthusiasts_DE
+3P_Car Owners_IT
+3P_Car Owners_UK
+3P_Car Owners_US
+3P_Career Enthusiasts_US
+3P_Cat Owners_US
+3P_Cat Owners_US_duplicate_do not use
+3P_Champagne Drinkers_DE
+3P_Champagne Drinkers_FR
+3P_Champagne Drinkers_UK
+3P_Champagne Drinkers_US
+3P_Charitable_Community_Involvement_US
+3P_Charity Enthusiasts_AU
+3P_Charity Enthusiasts_UK
+3P_Charity Enthusiasts_US
+3P_Chocolate Lovers_US
+3P_Cinema Goers_DE
+3P_Cinema Goers_FR
+3P_Classic / Musical Movie Enthusiasts_FR
+3P_Classic / Musical Movie Enthusiasts_UK
+3P_Climbing Enthusiasts_UK
+3P_Coffee Buyers_AU
+3P_Coffee Buyers_DE
+3P_Coffee Buyers_FR
+3P_Coffee Buyers_IT
+3P_Coffee Buyers_UK
+3P_College Basketball Fans_US [Do Not Use in 2021]
+3P_College Degree_US
+3P_College Students_AU
+3P_College Students_CA
+3P_College Students_US
+3P_College Students_US_DEPRECATED
+3P_Comedy Enthusiasts_AU
+3P_Comedy Enthusiasts_CA
+3P_Comedy Enthusiasts_DE
+3P_Comedy Enthusiasts_ES
+3P_Comedy Enthusiasts_IT
+3P_Comedy Enthusiasts_UK
+3P_Comedy Enthusiasts_US
+3P_Comedy Movie Enthusiasts_DE
+3P_Comedy Movie Enthusiasts_FR
+3P_Comedy Movie Enthusiasts_UK
+3P_Commercial Vehicle Owners / Intenders_UK
+3P_Commercial Vehicle Owners_DE
+3P_Commercial Vehicle Owners_ES
+3P_Commercial Vehicle Owners_FR
+3P_Commercial Vehicle Owners_IT
+3P_Commuters_AU
+3P_Commuters_CA
+3P_Commuters_DE
+3P_Commuters_ES
+3P_Commuters_FR
+3P_Commuters_IT
+3P_Commuters_UK
+3P_Compact Car Owners / Buyers_FR
+3P_Compact Car Owners_US
+3P_Connected Devices_US
+3P_Contact Lens Wearers_US
+3P_Cooking Enthusiasts_CA
+3P_Cooking Enthusiasts_DE
+3P_Cooking Enthusiasts_ES
+3P_Cooking Enthusiasts_FR
+3P_Cooking Enthusiasts_IT
+3P_Cooking Enthusiasts_UK
+3P_Cooking Enthusiasts_US
+3P_Cord Cutters_US [Do Not Use in 2021]
+3P_Cosmetics Buyers / Beauty Enthusiasts_AU
+3P_Cosmetics Buyers / Beauty Enthusiasts_CA
+3P_Cosmetics Buyers / Beauty Enthusiasts_ES
+3P_Cosmetics Buyers / Beauty Enthusiasts_FR
+3P_Cosmetics Buyers / Beauty Enthusiasts_IT
+3P_Cosmetics Buyers / Beauty Enthusiasts_UK
+3P_Cosmetics Buyers / Beauty Enthusiasts_US
+3P_Couple without Kids_DE
+3P_Craftsmen / Tradesmen_AU
+3P_Craftsmen / Tradesmen_DE
+3P_Craftsmen / Tradesmen_ES
+3P_Craftsmen / Tradesmen_FR
+3P_Craftsmen / Tradesmen_IT
+3P_Craftsmen / Tradesmen_UK
+3P_Credit Applicants_UK
+3P_Credit Card Owner_ES
+3P_Crime TV Fans_US [Do Not Use in 2021]
+3P_Cruise Vacationers_DE
+3P_Cruise Vacationers_US
+3P_Custom_ > LRC_DataStore_Spotify_RXBAR_TrendyFitnessEnthusiasts_25Nov2020_US [Do Not Use in 2021]
+3P_Custom_ Adventure Film & TV Enthusiasts_12Apr2021_US
+3P_Custom_ Interest & Lifestyle Audiences_High-Techie_19-Feb-2021_US
+3P_Custom_ Mid Tier Hotel Guests_US [Do Not Use in 2021]
+3P_Custom_ TV_AVOD Viewers_09Feb2021_US
+3P_Custom_ TV_American Idol Viewers_26Jan2021_US
+3P_Custom_ TV_Anime TV Viewers_29Jan2021US
+3P_Custom_ TV_BET Awards Viewers_04Aug2021_US
+3P_Custom_ TV_Baseball TV Viewers_31Dec2020_US
+3P_Custom_ TV_Basketball TV Viewers_20Jun2020_US
+3P_Custom_ TV_British TV Shows_18Aug2021_US
+3P_Custom_ TV_CMA Awards Viewers_11Jan2021_US
+3P_Custom_ TV_CNBC Viewers_26April2021_US
+3P_Custom_ TV_FX Viewers_US [Do Not Use in 2021]
+3P_Custom_ TV_Family TV Programming_31Dec2020_US
+3P_Custom_ TV_Football TV Viewers_20Jun2020_US
+3P_Custom_ TV_Fox Network Viewers_29Jan2021US
+3P_Custom_ TV_HBO Network Viewers_25Jan2021_US
+3P_Custom_ TV_Home Improvement TV Viewers_16-Jun-2021_US
+3P_Custom_ TV_Johnsonville_SEC Fans_10Sep2020_US [Do Not Use in 2021]
+3P_Custom_ TV_NBC Viewers_26Jan2021_US
+3P_Custom_ TV_OTT Streamers_17Jun2020_US
+3P_Custom_ TV_Premium TV Networks Showtime_17Jun2020_US
+3P_Custom_ TV_Premium TV Viewers_24Jan2021_US
+3P_Custom_ TV_Primetime TV Viewers_26Jan2021_US
+3P_Custom_ TV_Reality TV Addicts_17Jun2020_US
+3P_Custom_ TV_SVOD Viewers_7-Mar-2021_US
+3P_Custom_ TV_Shooter Gaming Genre_29Jan2021US
+3P_Custom_ TV_Sitcoms/Comedy Shows_29Jan2021_US
+3P_Custom_ TV_Spanish Language TV_01April2021_US
+3P_Custom_ TV_Sports TV Enthusiasts_16Jun2020_US
+3P_Custom_ TV_SuperBowl TV Viewers_11Jan2020_US
+3P_Custom_ Tech_Technology Adoption-Early Majority (Consumer Scores)_26-Jan-2021_US
+3P_Custom_ US Premium_Public-ACXM Technology-Likely Behavior-Early Technology Adopter_26-Jan-2021_US
+3P_Custom_ Univision_US [Do Not Use in 2021]
+3P_Custom_ _ US Basic - Public > ACXM Demographic > Household Size > Generations in Household > 2 Generations - Adult / Child_19-Feb-2021_US
+"3P_Custom_ _ US Basic - Public > ACXM Demographic > Income > Greater than $124,999_23-Feb-2021_US"
+3P_Custom_ _ US Basic - Public > ACXM Demographic > Presence of Children > Number of Children > 1 Child_19-Feb-2021_US
+3P_Custom_ _ US Basic - Public > ACXM Demographic > Presence of Children > Yes_19-Feb-2021_US
+3P_Custom_ _ US Basic - Public > ACXM Interest > Home > Cooking/Food_19-Feb-2021_US
+3P_Custom_ _ US Basic - Public > ACXM Interest > Outdoor Activates > Camping / Hiking_19-Feb-2021_US
+3P_Custom_ _ US Basic - Public > ACXM Interest > Outdoor Activates > Fishing_19-Feb-2021_US
+3P_Custom_ _ US Basic - Public > ACXM Interest > Outdoor Activates > Hunting / Shooting_19-Feb-2021_US
+3P_Custom_ _ US Premium - Public > ACXM Media > Likely Magazine Type > Outdoor Recreation_19-Feb-2021_US
+3P_Custom_ABCViewers_US [Do Not Use in 2021]
+3P_Custom_AMEX Gold Cardholders_04Oct2019_US
+3P_Custom_AMEX Green Cardholders_04Oct2019_US
+3P_Custom_AMEX Platinum Cardholders_04Oct2019_US
+3P_Custom_AT&T Mobile Customers_US
+3P_Custom_Adstra_Executives by Title/Job Function - Home-Based Small Business Owners/Entrepreneurs_8Feb2021_US
+3P_Custom_Adventurous Consumers_30March2020_US
+3P_Custom_Affinity Solutions In Market Travelers_27July2020_US
+3P_Custom_Airbnb Consumers_27July2020_US
+3P_Custom_Aldi Supermarket Shoppers_UK
+3P_Custom_Amazon Prime Subscribers_UK
+3P_Custom_Amazon Prime_US [Do Not Use in 2021]
+3P_Custom_AmazonBuyers_US
+3P_Custom_Amazon_BestBuy_Shoppers_US
+3P_Custom_Arts Travel Culture_US
+3P_Custom_Arts and Culture Enthusiasts_US
+3P_Custom_Assets_100k-500kUSD_US
+3P_Custom_Assets_25kUSD_US
+3P_Custom_AtHome_Activities_10Aug2020_US
+3P_Custom_Auto Loan Intenders_18June2020_US
+3P_Custom_Auto Repair Shoppers_08March2021_US
+3P_Custom_Avid Golfers_27Oct2020_US
+3P_Custom_Awards Show Enthusiasts_11Jan2021_US
+3P_Custom_B2B Psychiatry & Mental Health Professionals_7Feb2021_US
+3P_Custom_BEV-PHEV-Hybrid_Owners_US [Do Not Use in 2021]
+3P_Custom_BMW Buyers_UK
+3P_Custom_BMW Group 3_UK
+3P_Custom_BMW Group 5_UK
+3P_Custom_BMW Intenders_ES
+3P_Custom_BMW Intenders_IT
+3P_Custom_BMW Owners_ES
+3P_Custom_BMW Owners_UK
+3P_Custom_BMW_Thrillseeking Car Enthusiasts_UK
+3P_Custom_BT_Indulgent Imitators_UK
+3P_Custom_Back To School_US
+3P_Custom_Bacon Purchasers_24Feb2021_US
+3P_Custom_Baking Enthusiasts_21Dec2020_US
+3P_Custom_Banana Republic Competitor Shoppers_US
+3P_Custom_Banana Republic Factory Stores Competitor Shoppers_US
+3P_Custom_Basketball Enthusiasts_3Feb2021_CA
+3P_Custom_Baskin Robbins Buyers/Diners_20April2021_US
+3P_Custom_Beer Lovers_2Jan2021_US
+3P_Custom_BeerLovers_US [Do Not Use in 2021]
+3P_Custom_BioTech_12April2021_US
+3P_Custom_Black Friday / Cyber Monday Shoppers_DE
+3P_Custom_Black Friday / Cyber Monday Shoppers_ES
+3P_Custom_Black Friday / Cyber Monday Shoppers_FR
+3P_Custom_Black Friday / Cyber Monday Shoppers_IT
+3P_Custom_Black Friday / Cyber Monday Shoppers_UK
+3P_Custom_Black Friday Shoppers_4Dec2020_US
+3P_Custom_Black Friday and Cyber Monday Shoppers_4Dec2020_US
+3P_Custom_Boat Owners_10June2020_US
+3P_Custom_Bone Health_17Sept2020_US
+3P_Custom_Boost Mobile_US [Do Not Use in 2021]
+3P_Custom_BravoTV_Networks_Shows_US
+3P_Custom_BravoTV_RealityNetworksOnly_US
+3P_Custom_BravoTV_RealityTV_US
+3P_Custom_Breakfast and Brunch Enthusiasts_9Feb2021_US
+3P_Custom_Broadband Users_FR
+3P_Custom_Burger King_Competitive Conquest_08Sept2020_US
+3P_Custom_Business Decision Makers_3Feb2021_CA
+3P_Custom_CHANEL_Color Purchasers_26Feb2021_US
+3P_Custom_CHANEL_Fragrance Gift Purchasers_25Feb2021_US
+3P_Custom_CHANEL_Fragrance Purchasers_25Feb2021_US
+3P_Custom_CHANEL_Skincare Purchasers_26Feb2021_US
+3P_Custom_CHANEL_WFJ Interests_26Feb2021_US
+3P_Custom_CVS Shoppers_26Oct2020_US
+3P_Custom_Cablevision_US
+3P_Custom_Capital One_HHI $50 - $200k_10Sep2020_US
+3P_Custom_Capital One_HHI $75 - $200k_10Sep2020_US
+3P_Custom_Capital One_SBO_17Dec2020_US
+3P_Custom_CapitalOne_HHI $100k+_19Nov2020_US
+3P_Custom_Car Insurance Holders / Intenders_DE
+3P_Custom_Casual Diners_11Feb2021_US
+3P_Custom_Cat Litter Buyers_28September2020_US
+3P_Custom_Cat Treat Buyers_26August2020_US
+3P_Custom_Charity Enthusiasts
+3P_Custom_Chipotle Customers_11March2021_US
+3P_Custom_Chipotle _21May2020_US [Do Not Use in 2021]
+3P_Custom_Christmas / Holiday Shoppers_IT
+3P_Custom_Churchs Chicken Competitors_01October2020_US
+3P_Custom_Cigarette Purchasers_10Feb2021_US [Restricted Use]
+3P_Custom_College Basketball Fans_20Jan2021_US
+3P_Custom_Comic Book Fans_09Oct2019_US [Do Not Use in 2021]
+3P_Custom_CompactSUVs_US
+3P_Custom_Companies with 1-25 Employees_17Dec2019_US [Do Not Use in 2021]
+3P_Custom_Company Size 1-100_25August2020_US
+3P_Custom_Company Size 1-500_09July2020_US
+3P_Custom_Company Size 100-500_09July2020_US
+3P_Custom_Competitive Gamers_02September2020_US
+3P_Custom_Contact Lens Wearers_AU
+3P_Custom_Convenience Stores_US
+3P_Custom_Cord Cutters_22Dec2020_US
+3P_Custom_Costco Shoppers_US
+3P_Custom_Cox Subscribers_11Dec2019_US
+3P_Custom_Craft Beer_27Nov2020_US
+3P_Custom_Craft Beer_US [Do Not Use in 2021]
+3P_Custom_Cricket Wireless_US [Do Not Use in 2021]
+3P_Custom_Crime TV Fans_2Jan2021_US
+3P_Custom_Culture Next 2020 - Gen Z Starts From Scratch
+3P_Custom_Culture Next 2020 - Progress Overtakes Partisanship
+3P_Custom_Culture Next 2020 - Self Discovery is Communal
+3P_Custom_Current Snuggle Buyers_04May2020_US [Do Not Use in 2021]
+3P_Custom_Cyber Monday Shoppers_4Dec2020_US
+3P_Custom_DC Comic Fans_22Feb2021_US
+3P_Custom_Deadly Class Targeting_US [Do Not Use in 2021]
+3P_Custom_Decision Makers_IT_US
+3P_Custom_Dell_Young Metros_US [Insights Only]
+3P_Custom_Diesel Car Owners_03Apr2020_US [Do Not Use in 2021]
+3P_Custom_Disinfectant Cleaners _24March2021_US
+3P_Custom_Disney Enthusiasts_US
+3P_Custom_Drain Cleaner & Plumbing Supplies_14Dec2020_US
+3P_Custom_Drain Cleaner Brands_18Dec2020_US
+3P_Custom_Drama Enthusiasts_2Jan2021_US
+3P_Custom_Drama TV & Movie Fans_20May2020_US
+3P_Custom_Drug Store Buyers_14Jan2021_US
+3P_Custom_Dry Dog Food Purchasers_8Feb21_US
+3P_Custom_DunkinDonuts_US
+3P_Custom_EE_Digital Dynamos_UK
+3P_Custom_EE_Top End Techtastics_UK
+3P_Custom_ESPN Viewers_1Jan2021_US
+3P_Custom_ESPNViewers_US [Do Not Use in 2021]
+3P_Custom_Easter Shoppers_US
+3P_Custom_Echo_Alexa_Owners_15Jun2020_US
+3P_Custom_Echo_Alexa_Owners_US [Do Not Use in 2021]
+3P_Custom_Epsilon_Online Shoppers - Heavy Shoppers_28-Feb-2021_US
+"3P_Custom_Epsilon_Total Cash & Investment Resources_$100,000 - $499,999_06Aug2019_US [Do Not Use in 2021]"
+"3P_Custom_Epsilon_Total Investment Resources_$250,000 - $499,999_06Aug2019_US [Do Not Use in 2021]"
+3P_Custom_Equifax / IXI_Retail Propensity: Gift Buyers_26-Feb-2021_US
+3P_Custom_Equifax / IXI_Travel and Entertainment Propensity: Travelers_19-Feb-2021_US
+3P_Custom_European Travelers_US [Do Not Use in 2021]
+3P_Custom_Expectant Parents_1Jan2021_US
+3P_Custom_Experian_Financially Savvy Credit Users_UK
+3P_Custom_Express_Likely Audience_US
+3P_Custom_Extreme Sports Enthusiasts_06Feb2020_US
+3P_Custom_FX Viewers_US [Do Not Use in 2021]
+3P_Custom_Facial Cleanser and Moisturizer Category_28Nov2020_US
+3P_Custom_FedEx_Stay at Home Travelers_19Oct2020_US
+3P_Custom_Federal Employees & Military Members_4August2020_US
+3P_Custom_Fighting Gamers_02Sept2020_US
+3P_Custom_Finance Personas - Know-It-All_US
+3P_Custom_Finance Personas - No Time_US
+3P_Custom_Finance Personas - Planner_US
+3P_Custom_Finance Personas - Slow and Steady_US
+3P_Custom_Finance Personas - Tech-Savvy_US
+3P_Custom_Financial App Users_03December2020
+3P_Custom_First Person Shooter_10April2020_US
+3P_Custom_Folgers Purchasers_US [Do Not Use in 2021]
+3P_Custom_Fragrance Purchasers_31Dec2020_US
+3P_Custom_Frequent Outback Steakhouse Visitors_15Jan2020_US
+3P_Custom_Frigidaire_US
+3P_Custom_Fudge Lovers_08Jan2021_US
+3P_Custom_FullSizePickup_US
+3P_Custom_Functional Snackers_US [Do Not Use in 2021]
+3P_Custom_GAP Competitor Shoppers_US
+3P_Custom_Gasoline Purchasers_17Dec2020_US
+3P_Custom_Glasses user or purchaser_US
+3P_Custom_Gluten Free_07Nov2019_US
+3P_Custom_Google Hardware_US
+3P_Custom_Government Workers_2Sep2020_US
+3P_Custom_Green Living Enthusiasts_WW
+3P_Custom_Grooming Enthusiasts_12January2020_US
+3P_Custom_Gum Buyers_18December2020_US
+3P_Custom_Gym Usage Moderate_US [Do Not Use in 2021]
+3P_Custom_H&M Shoppers_29July2020_US
+3P_Custom_HBO_Mystery-Thriller Enthusiasts_ES
+3P_Custom_HGTV_US [Do Not Use in 2021]
+3P_Custom_HHI $0-$50K_US
+3P_Custom_HHI $1MM+_19Dec2019_US [Do Not Use in 2021]
+3P_Custom_HHI $200k+_19Nov2020_US
+3P_Custom_HHI $250k+_24Feb2021_US
+3P_Custom_HHI $500K+_19Dec2019_US [Do Not Use in 2021]
+3P_Custom_HHI $75K-$150K_17September2020_US
+3P_Custom_HHI 25K+_US
+3P_Custom_Haircare Buyers_1Jan2021_US
+3P_Custom_Health Insurance Purchase Intenders_31July2020_US
+3P_Custom_Healthcare Professionals_FR
+3P_Custom_Heavy QSR_02April2020_US [Do Not Use in 2021]
+3P_Custom_Heineken Drinkers_US [Do Not Use in 2021]
+3P_Custom_Heineken_Desperados Audience_DE
+3P_Custom_Heineken_Desperados Audience_ES
+3P_Custom_Heineken_Desperados Audience_UK
+3P_Custom_Heineken_Desperados Audience_US [Do Not Use in 2021]
+3P_Custom_High End Cosmetic Buyers_2Jan2021_US
+3P_Custom_High End Cosmetic Buyers_US [Do Not Use in 2021]
+3P_Custom_High Schoolers_4Aug2020_US
+3P_Custom_Hiking Enthusiasts_US
+3P_Custom_Hockey Enthusiasts_3Feb2021_CA
+3P_Custom_Holiday Shopping TJX Competitive Set_19Nov2019_US
+3P_Custom_Home Insurance Holders / Intenders_DE
+3P_Custom_Home Owners _ US
+3P_Custom_Hot Sauce Fans_07April2020_US
+3P_Custom_IRI_Coffee/Coffee Toppers_17Dec2019_US [Do Not Use in 2021]
+3P_Custom_IRI_Johnsonville Sausage_Fast Flavor Pleasers_11Feb2021_US
+3P_Custom_IRI_Modern Health Meals_17Dec2019_US [Do Not Use in 2021]
+3P_Custom_IRI_Poppable Snacking_17Dec2019_US [Do Not Use in 2021]
+3P_Custom_IRI_Renew Life_Probiotic Competitors_29Oct2020_US
+3P_Custom_IT Decision Makers_3Feb2021_CA
+3P_Custom_In Market Airfare_7August2020_US
+3P_Custom_In Market Hotel Customers_7August2020_US
+3P_Custom_In Market International or Domestic Travel_7August2020_US
+3P_Custom_In Market for Banking Services_US [Do Not Use in 2021]
+3P_Custom_In-Market for Cruise_06Dec2019_US
+3P_Custom_In-Market for Hyundai_22Oct2020_US
+3P_Custom_Indeed_Company Size 1-100_25August2020_US [Do Not Use in 2021]
+3P_Custom_Intense Workout Enthusiasts_1Jan2020_US
+3P_Custom_Intense Workout Enthusiasts_31July2020_US [Do Not Use in 2021]
+3P_Custom_Investable Assets Exceeding $50K_14Dec2020_US [Restricted Use]
+3P_Custom_Investible Assets >$100k_US
+3P_Custom_JC Penney Shoppers_20May2020_US [Do Not Use in 2021]
+3P_Custom_Jeep Intenders_IT
+3P_Custom_Jewelry Shoppers_US
+3P_Custom_Jewelry/Handbag Shopper_Gift Givers_US
+"3P_Custom_Jobs within healthcare, manufacturing and retail_US"
+3P_Custom_Just For Men Buyers_US [Do Not Use in 2021]
+3P_Custom_Justice_League_Fans_ES
+3P_Custom_KFC_KFC Visitors_25June2020_US
+3P_Custom_Kaboom Competitors_09Oct2019_US [Do Not Use in 2021]
+3P_Custom_Kia Intenders_FR
+3P_Custom_Kia Intenders_IT
+3P_Custom_Kia Intenders_UK
+3P_Custom_Kia Owners_UK
+3P_Custom_Kohls Shoppers_20May2020_US [Do Not Use in 2021]
+3P_Custom_Lawn and Garden Enthusiasts_6Apr2021_US
+3P_Custom_Life Insurance Providers_US
+3P_Custom_Likely to Purchase Maytag_US
+3P_Custom_Likely to Purchase Whirlpool_US
+3P_Custom_Likely to Refinance Loans_17Aug2020_US
+3P_Custom_Liquid Investible Assets_$100K-$249K_1Sept2020_US
+3P_Custom_LotteryandGambling_US [Do Not Use]
+3P_Custom_Low Carb_07Nov2019_US
+3P_Custom_Lowes_Tradespeople_8Mar21_US
+3P_Custom_Lowes_US
+3P_Custom_LuxuryAudience_US
+3P_Custom_Lysol Buyers_31March2021_US
+3P_Custom_MTV Viewers_22Jan2021_US
+3P_Custom_Macys Shoppers_20May2020_US [Do Not Use in 2021]
+"3P_Custom_Marketers, IT, Computer Science_US"
+3P_Custom_Marketing Employees_AU
+3P_Custom_Marketing Employees_DE
+3P_Custom_Marketing Employees_FR
+3P_Custom_Marketing Employees_UK
+3P_Custom_Martial Arts & MMA Enthusiasts_22Feb2021_US
+3P_Custom_Marvel Enthusiasts_17Dec2020_US
+3P_Custom_Mattress Store Recent Visitors_1Dec2020_US
+3P_Custom_McDonald's Breakfast Buyers Competitive Set_US
+3P_Custom_McDonald's Consumer_US
+3P_Custom_Men's Grooming_AU
+3P_Custom_Mercedes Intenders_IT
+3P_Custom_Mercedes Owners_ES
+3P_Custom_Mercedes Owners_FR
+3P_Custom_Mercedes-Benz Loyalists_01Dec2020_US
+3P_Custom_Mexican Food Purchasers_10March2021_US
+3P_Custom_Micro Business Owners_UK
+3P_Custom_MidSizePickup_US
+3P_Custom_MidSizeSUVs_US
+3P_Custom_Military_US
+3P_Custom_Mini Enthusiasts_IT
+3P_Custom_Mini Intenders_ES
+3P_Custom_Mini Owners / Buyers_UK
+3P_Custom_Mint Buyers_31Oct2019_US
+3P_Custom_Mobile & App - Supermarket - Aldi_23Apr2020_US
+3P_Custom_Mobile Gamers_20Oct2020_US
+3P_Custom_Mortgage Customers_11June2020_US
+3P_Custom_MovieEnthusiasts_US
+3P_Custom_Musical Enthusiasts_AU
+3P_Custom_NASCAR Enthusiasts_08Feb2021_US
+3P_Custom_NBC Viewers _US [Do Not Use in 2021]
+3P_Custom_Netflix_US
+3P_Custom_New Phone Intenders_22Oct2019_US [Do Not Use in 2021]
+3P_Custom_New/Expecting Parents_29Mar2021_CA
+3P_Custom_NintendoConsoleOwners_US
+3P_Custom_Nissan Intenders_ES
+"3P_Custom_Nivea_Nivea, Jergens, Vaseline, Gold Bond Purchasers_23Feb21_US"
+3P_Custom_Non-Luxury Auto Intenders_18Feb2021_US
+3P_Custom_Odor Elimination Category Buyers_24Mar21_US
+3P_Custom_Office Supplies Buyers_16April2020_US [Do Not Use in 2021]
+3P_Custom_Online / Mobile Banking Users_UK
+3P_Custom_Online Dating Users_FR
+3P_Custom_Online Dating Users_UK
+3P_Custom_Online Food Delivery Users_15Jan2020_US
+3P_Custom_Online Grocery Shoppers_30July2020_US
+3P_Custom_Online_Courses_Attendees_ES
+3P_Custom_Operations/Finance/Management Occupation_US
+3P_Custom_Organic/Natural Beauty and Skincare Enthusiasts_14Jan2021_US
+3P_Custom_Outdoor Space Shoppers_6Apr2021_US
+3P_Custom_Owners and Health_US
+3P_Custom_P&G_AZ Pro Expert_IT
+3P_Custom_P&G_DASH_IT
+3P_Custom_P&G_Fairy_IT
+3P_Custom_P&G_H&S Alinghi ISP_IT
+3P_Custom_P&G_H&S Supreme BT_IT
+3P_Custom_P&G_OralB Power_IT
+3P_Custom_P&G_Pantene Product Transformation_IT
+3P_Custom_P&G_SWIFFER_IT
+3P_Custom_Paid Video Streaming Services_AU
+3P_Custom_Paid Video Streaming Services_DE
+3P_Custom_Paid Video Streaming Services_ES
+3P_Custom_Paid Video Streaming Services_FR
+3P_Custom_Paid Video Streaming Services_IT
+3P_Custom_Paid Video Streaming Services_UK
+3P_Custom_Panera_Location_Panera & Competitors_29Oct2020_US
+3P_Custom_Parents of Boys 6-11_US
+3P_Custom_Parents of Children Ages 6-10_17Dec2020_US
+3P_Custom_Parents of Kids 5-13_28Apr2020_US
+3P_Custom_Parents of Toddlers_30Nov2020_US
+3P_Custom_Parents of Young Girls_27July2020_US
+3P_Custom_Parents with Children Age 6-17_15March2020_US
+3P_Custom_Parents with Children Ages 9-18_23Nov2020_US
+3P_Custom_Parents with Kids 6-12_US
+3P_Custom_Parents_12Nov2020_CA
+3P_Custom_Past Choice Hotel Guests_US [Do Not Use in 2021]
+3P_Custom_PayPal Users_07July2020_US
+3P_Custom_Pillsbury_Cookie or Brownie Buyers_28April2020_US [Do Not Use in 2021]
+3P_Custom_Planning to Graduate/Recent Graduates_20Jul2020_US
+3P_Custom_Pop Culture_17Apr2020_US [Do Not Use in 2021]
+3P_Custom_Post Secondary/Graduates_18Sep2020_CA
+3P_Custom_PostPaidWireless (Excluding T-Mobile)_US
+3P_Custom_Pottery Barn Shoppers_US [Do Not Use in 2021]
+3P_Custom_PrePaidWireless (excluding TMO/Metro)_US [Do Not Use in 2021]
+3P_Custom_Premium Chocolate Lovers/Buyers_08Jan2021_US
+3P_Custom_Premium TV Viewers_US [Do Not Use in 2021]
+3P_Custom_PremiumHeadphones_US [Do Not Use in 2021]
+3P_Custom_Private Health Insurance Holders_ES
+3P_Custom_Private Health Insurance Intenders_ES
+3P_Custom_Property Manager_US [Do Not Use in 2021]
+3P_Custom_Protein Shake Buyers_11March2021_US
+3P_Custom_Purina Competitive Segment_09Sep2019_US [Do Not Use in 2021]
+3P_Custom_Purina Purchasers_09Sep2019_US [Do Not Use in 2021]
+3P_Custom_QSR Burger Consumers_US
+3P_Custom_QSR Shoppers ()_17Jan2020_US
+3P_Custom_QSR_Burger King and Wendy's_US
+3P_Custom_QSR_Popeyes Consumers_US
+3P_Custom_RXBar_IRI_Competitor Purchasers_15Dec2020_US
+3P_Custom_Recent Red Lobster Visitors_16March2020_US [Do Not Use in 2021]
+3P_Custom_Red Bubble_F18-24_22April2021_US
+3P_Custom_Red Bubble_F35+_22April2021_US
+3P_Custom_RedRocks_Premium Kettle AND Organic Snacks_20March2020_US [Do Not Use in 2021]
+3P_Custom_Refrigerated Juice Purchasers/Intenders_14Dec2020_US
+3P_Custom_Retirees_04August2020_US
+3P_Custom_Ride Sharers_AU
+3P_Custom_Role Playing Gamers_10Feb2021_US
+3P_Custom_SUV / 4x4 Intenders_FR
+3P_Custom_SUV / 4x4 Intenders_IT
+3P_Custom_SUV Owners_FR
+3P_Custom_Safety Purchasers_US
+3P_Custom_SafewayAlbertson_Shoppers_US
+3P_Custom_Sainsburys Supermarket Shoppers_UK
+3P_Custom_Sales & Marketing Professionals_UK
+3P_Custom_Sales Professionals_23Oct2020_US
+3P_Custom_Sam's Club Shoppers/Members_4Dec2020_US
+3P_Custom_Samsung_IM Persona_Browsers
+3P_Custom_Samsung_IM Persona_Expressers
+3P_Custom_Samsung_IM Persona_Life Maximisers
+3P_Custom_Samsung_IM Persona_Social Savvies
+3P_Custom_Samsung_IM Persona_Traditionalists
+3P_Custom_Samsung_Taboo Breakers_21April2020_US [Do Not Use in 2021]
+3P_Custom_Security Operations Role_28May2020_US
+3P_Custom_Security Operations Role_28Oct2019_US
+3P_Custom_Sephora Shoppers_4Jan2021_US
+3P_Custom_ShareThis_In Market Mortgage_16Dec2019_US [Do Not Use in 2021]
+3P_Custom_Showtime Viewers_US [Do Not Use in 2021]
+3P_Custom_Sierra Nevada_Beer Drinkers_04June2020_US
+3P_Custom_Sierra Trading Post Shoppers_US [Do Not Use in 2021]
+3P_Custom_Simple Mobile Retailers_US
+3P_Custom_Skaters_US
+3P_Custom_Skiers/Snowboarders_US
+3P_Custom_Skin Care Buyers_2Jan2021_US
+3P_Custom_Small Businesses Owners Interested In Online Delivery Services_US
+3P_Custom_Smart TV Owners_IT
+3P_Custom_Snapchat Users_18Nov2019_US [Do Not Use in 2021]
+3P_Custom_Software Developers and IT_US
+3P_Custom_Sonos_Culture Seekers persona
+3P_Custom_Sonos_Culture Seekers_narrow (for insights)
+3P_Custom_Sonos_Design Audience
+3P_Custom_Sonos_Design Audience (for insights)
+3P_Custom_Sonos_Sound Audience
+3P_Custom_Sonos_Sound Audience (for insights)
+3P_Custom_Sonos_UX Audience
+3P_Custom_Sonos_UX Audience (for insights)
+3P_Custom_Spirits Drinkers_DE
+3P_Custom_Staples Competitive Shoppers_26Feb21_US
+3P_Custom_Starbucks Grocery Buyers_US [Do Not Use in 2021]
+3P_Custom_Starbucks Retail Shoppers_US
+3P_Custom_Starbucks_Competitors_US
+3P_Custom_State Farm Insurance_US
+3P_Custom_Streaming TV Users_AU
+3P_Custom_SubaruAscent_Intenders_US
+3P_Custom_Sugar Snackers_US
+3P_Custom_Switch Mobile Carrier_18Dec2019_US [Do Not Use in 2021]
+3P_Custom_T-MobileCustomers_US
+3P_Custom_TD Bank Competitors_29January21_US
+3P_Custom_TJX Sierra_Competitive Conquesting_23Jul2020_US
+3P_Custom_TV_Academy Awards/Oscars Viewers_31Dec2020_US
+3P_Custom_TV_Sports TV Enthusiasts_28-Feb-2021_US
+3P_Custom_Tablet/Touchscreen Shoppers_US [Do Not Use in 2021]
+"3P_Custom_Target, Walmart, Amazon_21Oct2019_US [Do Not Use in 2021]"
+"3P_Custom_Target, Walmart, Amazon_2Jan2020_US"
+3P_Custom_TargetShoppers_US
+3P_Custom_TargetShoppers__US [Do Not Use in 2021]
+3P_Custom_Target_Shoppers_Heavy_Dubious_US
+3P_Custom_Target_Shoppers_Heavy_US
+3P_Custom_Target_Shoppers_US [Do Not Use in 2021]
+3P_Custom_Taxi / Ride Sharing / VTC Users_FR
+3P_Custom_Team Leaders_AU
+3P_Custom_Team Leaders_DE
+3P_Custom_Team Leaders_FR
+3P_Custom_Team Leaders_UK
+3P_Custom_Thriller Movie Fans_3Feb2021_CA
+3P_Custom_Total Wireless Retailers_US
+3P_Custom_Toyota Intenders_IT
+3P_Custom_Toyota Owners_DE
+3P_Custom_Toyota Owners_IT
+3P_Custom_Toyota Owners_UK
+3P_Custom_Toys & Board / Card Games Enthusiasts_FR
+3P_Custom_Traditional TV Passionates_US
+3P_Custom_Tropicana_Buyers_15Jun2020_US
+3P_Custom_Tropicana_Buyers_US [Do Not Use in 2021]
+3P_Custom_UPS Store Competitive Shoppers_23Dec2020_US
+3P_Custom_Uber Eats App Users_21Apr2020_US [Do Not Use in 2021]
+3P_Custom_Use Productivity Apps / Software_2Jan2021_US
+3P_Custom_Use Productivity Apps / Software_DE
+3P_Custom_Use Productivity Apps / Software_FR
+3P_Custom_Use Productivity Apps / Software_US [Do Not Use in 2021]
+3P_Custom_V8 Buyers_27Nov2020_US
+3P_Custom_V8 Buyers_US [Do Not Use in 2021]
+3P_Custom_VW Owners_DE
+3P_Custom_VW_Owners_US
+3P_Custom_ValentinesDayShopper_28October2019_US
+3P_Custom_Vegan Diet_19Oct2020_US
+3P_Custom_Vegetarian/Vegan Lifestyle_DE
+3P_Custom_Vegetarian/Vegan Lifestyle_FR
+3P_Custom_Vendigi_In-Market Home Mortgage_11Dec2019_US [Do Not Use in 2021]
+3P_Custom_Verizon Mobile Customers_US
+3P_Custom_Visual DNA_Personality-Shopping Habits-Early Adopter_26-Jan-2021_US
+3P_Custom_Vita Coco Pressed Competitors_05November2019_US [Do Not Use in 2021]
+3P_Custom_Vita Coco Sport Drink Competitors_05November2019_US [Do Not Use in 2021]
+3P_Custom_Vitamin & Supplement Purchasers_23Jun2020_US
+3P_Custom_Volkswagen Intenders_IT
+3P_Custom_Volvo Intenders_US
+3P_Custom_Volvo_Brand Values_UK
+3P_Custom_Walgreens Shoppers_26Oct2020_US
+3P_Custom_Walgreens_Sonic Competitive Shoppers_21Oct2020_US
+3P_Custom_Walmart Shoppers_US
+3P_Custom_Walmart Shoppers__28Oct2019_US [Do Not Use in 2021]
+3P_Custom_WeWork__Midmarket_ManagerplusFFT_US [Do Not Use in 2021]
+3P_Custom_Wealthy Individuals_US
+3P_Custom_Wearables / Smart Watch Intenders_FR
+3P_Custom_Weekend Travelers_25Nov2019_US [Do Not Use in 2021]
+3P_Custom_Wells Fargo_First Time Home Buyers_US
+3P_Custom_Wells Fargo_Home Buyers and Mortgage Customers_Adobe_25June20_US
+3P_Custom_Wells Fargo_Homebuyers and Mortgage_Liveramp_25June20_US [Do Not Use in 2021]
+3P_Custom_Wells Fargo_Small Business Owners/Professionals/Decision Makers_19Oct2020_US
+3P_Custom_Whole Foods Shopper_US
+3P_Custom_Wine Drinkers_AU
+3P_Custom_Wine Enthusiasts_FR
+3P_Custom_Wine Enthusiasts_US
+3P_Custom_Wix_Developers/Designers_12Feb2021_US
+3P_Custom_WranglerStoreShoppers_US
+3P_Custom_Wyndham Conquesting_US [Do Not Use in 2021]
+3P_Custom_Yoga_Pilates_27Nov2020_US
+3P_Custom_Yogurt_Snack_Buyers_US
+3P_Custom_Zulily Shoppers_Adobe_23Oct2018_US [Do Not Use in 2021]
+3P_Custom__ Demographics - Employment - Professional_28-Feb-2021_WW
+3P_Custom__ Entertainment - Entertainment - Sports Enthusiast_28-Feb-2021_WW
+3P_Custom__ Entertainment - Interest - Gaming Console_19-Feb-2021_WW
+3P_Custom__ Entertainment - Interest - Online Games_19-Feb-2021_WW
+3P_Custom__ Entertainment - Interest - Tickets - Concert_19-Feb-2021_WW
+3P_Custom__ Entertainment - Interest - Tickets - Theatre_19-Feb-2021_WW
+3P_Custom__ Entertainment - Interest - Video Games_19-Feb-2021_WW
+3P_Custom__ Entertainment - Mobile & App - Interest - Gaming Console_19-Feb-2021_WW
+3P_Custom__ Entertainment - Mobile & App - Interest - Online Games_19-Feb-2021_WW
+3P_Custom__ Entertainment - Mobile & App - Interest - Tickets - Concert_19-Feb-2021_WW
+3P_Custom__ Entertainment - Mobile & App - Interest - Tickets - Sports Events_28-Feb-2021_WW
+3P_Custom__ Entertainment - Mobile & App - Interest - Tickets - Theatre_19-Feb-2021_WW
+3P_Custom__ Entertainment - Mobile & App - Interest - Video Games_19-Feb-2021_WW
+3P_Custom__ Entertainment - Mobile & App - Sport - Outdoor_19-Feb-2021_WW
+3P_Custom__ Entertainment - Mobile & App - Sport - Running_19-Feb-2021_WW
+3P_Custom__ Entertainment - Online - Auctions_28-Feb-2021_WW
+3P_Custom__ Entertainment - Online - Social Networks_28-Feb-2021_WW
+3P_Custom__ Entertainment - Sport - Outdoor_19-Feb-2021_WW
+3P_Custom__ Entertainment - Sport - Running_19-Feb-2021_WW
+3P_Custom__ Financial - Characteristics - Commutes by car (VDNA)_19-Feb-2021_WW
+3P_Custom__ Financial - Characteristics - Commutes by car_19-Feb-2021_WW
+3P_Custom__ Food and Drink - Food - Healthy Food_19-Feb-2021_WW
+3P_Custom__ Food and Drink - Food - Organic_19-Feb-2021_WW
+3P_Custom__ Food and Drink - Mobile & App - Food - Organic_19-Feb-2021_WW
+3P_Custom__ Gifting - Buying For - Animals_26-Feb-2021_WW
+3P_Custom__ Gifting - Buying For - Babies/Baby Shower_26-Feb-2021_WW
+3P_Custom__ Lifestyle - Food Enthusiast_19-Feb-2021_WW
+3P_Custom__ Lifestyle - Health & Wellbeing Enthusiast_19-Feb-2021_WW
+3P_Custom__ Lifestyle - Health - Describes own health as excellent_19-Feb-2021_WW
+3P_Custom__ Lifestyle - Health - Diet - Eat Organics_19-Feb-2021_WW
+3P_Custom__ Lifestyle - Health - Diet - Low Carb_19-Feb-2021_WW
+3P_Custom__ Lifestyle - Health - Diet - Paleo_19-Feb-2021_WW
+3P_Custom__ Lifestyle - Health - Good Habits - Exercises twice or more per week_19-Feb-2021_WW
+3P_Custom__ Lifestyle - Health - Good Habits - Meditates_19-Feb-2021_WW
+3P_Custom__ Lifestyle - Health - Physical Activity - Exercise 3-4 times a week_19-Feb-2021_WW
+3P_Custom__ Lifestyle - Health - Trying to cut down on alcohol_19-Feb-2021_WW
+3P_Custom__ Lifestyle - Health - Trying to cut down on fast food_19-Feb-2021_WW
+3P_Custom__ Lifestyle - Health - Trying to cut down on tobacco_19-Feb-2021_WW
+3P_Custom__ Lifestyle - Interest - Green Living_19-Feb-2021_WW
+3P_Custom__ Lifestyle - Interest - Natural and Organics_19-Feb-2021_WW
+3P_Custom__ Lifestyle - Lifestyle - General Interest - Gamers_19-Feb-2021_WW
+3P_Custom__ Lifestyle - Mobile & App - Health & Wellbeing Enthusiast_19-Feb-2021_WW
+3P_Custom__ Lifestyle - Mobile & App - Nightlife Enthusiast_19-Feb-2021_WW
+3P_Custom__ Lifestyle - Nightlife Enthusiast_19-Feb-2021_WW
+3P_Custom__ Lifestyle - Tech Enthusiast_19-Feb-2021_WW
+3P_Custom__ Personality - Shopping Habits - Early Adopter_19-Feb-2021_WW
+3P_Custom__ Personality - Shopping Habits - Trendsetter_19-Feb-2021_WW
+3P_Custom__ Restaurants - Credit Card Data - Fast Food - Starbucks - All Credit/Debit Buyers ( Buyer Insights)_26-Feb-2021_WW
+3P_Custom__ Retail & Consumer Goods - Retail & Consumer Goods - Electronics - Single Serve Coffee Machine Owner_26-Feb-2021_WW
+3P_Custom__ Retail and Consumer Goods - Clothes - Fashion Style - Outdoor_19-Feb-2021_WW
+3P_Custom__ Retail and Consumer Goods - Clothes - Interest - Online Purchase_28-Feb-2021_WW
+3P_Custom__ Retail and Consumer Goods - Cosmetics - Online Cosmetics_28-Feb-2021_WW
+3P_Custom__ Retail and Consumer Goods - Electronics - Interest - Online Purchasing_28-Feb-2021_WW
+3P_Custom__ Retail and Consumer Goods - Wearable Tech - Fitness Tracker_19-Feb-2021_WW
+3P_Custom__ Tech - Credit Card Data - Video Streaming - All Video Streaming Services - All Credit/Debit Buyers ( Buyer Insights)_7-Mar-2021_WW
+3P_Custom__ Tech - Internet Use - Online Shopping_28-Feb-2021_WW
+3P_Custom__ Tech - Internet Use - Uses Social Media 11-25 hr/week_28-Feb-2021_WW
+3P_Custom__ Tech - Internet Use - Visit/Publish to Online Community/Social Network_28-Feb-2021_WW
+3P_Custom__ Tech - Mobile - Frequently plays games on cell phone_19-Feb-2021_WW
+3P_Custom__ Tech - Technology Adoption - Early Majority (Consumer Scores)_19-Feb-2021_WW
+3P_Custom__ Travel - Airline - All Credit/Debit Buyers ( Buyer Insights)_19-Feb-2021_WW
+3P_Custom__ Travel - Hotels/Motels - All Credit/Debit Buyers ( Buyer Insights)_19-Feb-2021_WW
+3P_Custom__ Travel - Services - All Credit/Debit Buyers ( Buyer Insights)_19-Feb-2021_WW
+3P_Custom__ US Premium - Public - ACXM Media - Television - Regularly Watch - Sports Shows_28-Feb-2021_US
+3P_Custom__ABC Viewers_25Jan2021_US
+3P_Custom__ABC Viewers_US [Do Not Use in 2021]
+3P_Custom__ACXM Business - Likely Banking - Credit Card Payment Method - American Express Open Small Business Card Last 12 Months_24-Feb-2021_US
+3P_Custom__ACXM Business - Likely Banking - Credit Card Payment Method - American Express Small Business Card Last 12 Months_24-Feb-2021_US
+3P_Custom__ACXM Business - Likely Banking - Credit Card Payment Method - Visa Small Business Card Last 12 Months_24-Feb-2021_US
+3P_Custom__ACXM CPG - Beverage - Likely Carbonated Beverage - Dr Pepper_13Jun2021_US
+"3P_Custom__ACXM Demographic - Income - $50,000 - $74,999_28-Feb-2021_US"
+3P_Custom__ACXM FInancial - Likely Credit Card - Card in Own Name - Any major Credit/Debit Card (Financial)_08April2021_US
+3P_Custom__ACXM Financial - Likely Attitude and Behavior - Purchased Financial Products for a Small Business in the Past Year (Financial)_24-Feb-2021_US
+3P_Custom__ACXM Retail - Beauty - Beauty and Cosmetics_28-Feb-2021_US
+3P_Custom__ACXM Retail - Buying Channel Preference - Online_28-Feb-2021_US
+3P_Custom__ACXM Retail - Likely Cents Off Coupons - Use at Discount Store_28-Feb-2021_US
+3P_Custom__ACXM Technology - Social Media - Likely Behavior - Mobile Social Networker_28-Feb-2021_US
+3P_Custom__ACXM Telecom - Likely Cell Phone/Plan Feature - Unlocked Phone_US
+3P_Custom__AMC Viewers_1Jan2021_US
+3P_Custom__AMC Viewers_US [Do Not Use in 2021]
+3P_Custom__Adult Swim Viewers_US [Do Not Use in 2021]
+3P_Custom__Amex_SMB_Coalition_12August2020_US [Do Not Use in 2021]
+3P_Custom__Animated TV Comedies_17May2021_US
+3P_Custom__Animated TV Comedies_US [Do Not Use in 2021]
+3P_Custom__Anime TV Viewers_US [Do Not Use in 2021]
+3P_Custom__Arby's Visitors_20Jun2019_US [Do Not Use in 2021]
+3P_Custom__Auto Enthusiast TV Shows_27Mar2019_US [Do Not Use in 2021]
+3P_Custom__Award Show Viewers_20Jun2020_US
+3P_Custom__Award Show Viewers_US [Do Not Use in 2021]
+3P_Custom__BET Viewers_US [Do Not Use in 2021]
+3P_Custom__Binge TV Viewers_US [Do Not Use in 2021]
+3P_Custom__British TV Shows_US [Do Not Use in 2021]
+3P_Custom__Business/Finance Viewers_1Jan2021_US
+3P_Custom__Business/Finance Viewers_US [Do Not Use in 2021]
+3P_Custom__Buyers of Select Nutritional Brands_24July2020_US [Do Not Use in 2021]
+3P_Custom__CBS Viewers_14Dec2020_US
+3P_Custom__CBS Viewers_US [Do Not Use in 2021]
+3P_Custom__CNBC_US [Do Not Use in 2021]
+3P_Custom__CNN_US [Do Not Use in 2021]
+3P_Custom__Celebrity News_1Jan2021_US
+3P_Custom__Celebrity News_US [Do Not Use in 2021]
+3P_Custom__College Football Fans_17Jun2020_US
+3P_Custom__College Football Fans_US [Do Not Use in 2021]
+3P_Custom__Comedy Central_1Jan2021_US
+3P_Custom__Comedy Central_US [Do Not Use in 2021]
+3P_Custom__Competition Show Viewers_US [Do Not Use in 2021]
+3P_Custom__Conservative Affinity TV News_US
+3P_Custom__Conservative Affinity TV News_US [Do Not Use in 2021]
+3P_Custom__Crime Drama_20Jun2020_US
+3P_Custom__Crime Drama_US [Do Not Use in 2021]
+3P_Custom__DailyShow_16Oct2020_US [Do Not Use in 2021]
+3P_Custom__Dating Show Viewers_US [Do Not Use in 2021]
+3P_Custom__Demographics - Children - 16+ Years_2-Mar-2021_WW
+3P_Custom__Discovery Channel_22Dec2020_US
+3P_Custom__Discovery Channel_US [Do Not Use in 2021]
+3P_Custom__Drama/Scripted TV Viewers_16Jun2020_US
+3P_Custom__Drama/Scripted TV Viewers_US [Do Not Use in 2021]
+3P_Custom__E! Entertainment Television Viewers_1Jan2021_US
+3P_Custom__ESPN Viewers_22Jun2020_US
+3P_Custom__ESPN Viewers_US [Do Not Use in 2021]
+3P_Custom__Emmy Awards Viewers_1Jan2021_US
+3P_Custom__Emmy Awards Viewers_US [Do Not Use in 2021]
+3P_Custom__FXX Viewers_US [Do Not Use in 2021]
+3P_Custom__Fantasy Football Fans_20Jun2020_US
+3P_Custom__Female TV Viewers_US [Do Not Use in 2021]
+3P_Custom__First Person Shooter_17April2020_US [Do Not Use in 2021]
+3P_Custom__Football TV Shows/Movies Fans_US [Do Not Use in 2021]
+3P_Custom__Fox Viewers_US [Do Not Use in 2021]
+3P_Custom__Freeform Network Viewers_1Jan2021_US
+3P_Custom__Freeform Viewers_US [Do Not Use in 2021]
+3P_Custom__Fringe TV Viewers_US [Do Not Use in 2021]
+3P_Custom__Game Shows_03Jan2021_US
+3P_Custom__Game Shows_US [Do Not Use in 2021]
+3P_Custom__Golden Globe Awards Viewers_11Jan2021_US
+3P_Custom__Golf TV Viewers_US [Do Not Use in 2021]
+3P_Custom__Grammy Awards Viewers_11Jan2021_US
+3P_Custom__Gum Buyers_31Oct2019_US [Do Not Use in 2021]
+3P_Custom__Halloween TV Specials Viewers_US [Do Not Use in 2021]
+3P_Custom__Hardcore Football Fans_US [Do Not Use in 2021]
+3P_Custom__High Brow TV/Film Enthusiasts_US [Do Not Use in 2021]
+3P_Custom__High-Techie_26-Jan-2021_US
+3P_Custom__History Channel Viewers_1Jan2021_US
+3P_Custom__History Channel Viewers_US [Do Not Use in 2021]
+3P_Custom__Home Improvement TV Viewers_US [Do Not Use in 2021]
+3P_Custom__I Like To Try New Things No One Else Has_19-Feb-2021_US
+3P_Custom__I Spend a Lot of Money on Toiletries/Cosmetics_28-Feb-2021_US
+3P_Custom__Kraft_Category Cream Cheese Buyers_4Aug2020_US [Do Not Use in 2021]
+3P_Custom__Kraft_Heavy Philadelphia Cream Cheese Buyers_4Aug2020_US [Do Not Use in 2021]
+3P_Custom__Late Night TV Viewers_US [Do Not Use in 2021]
+3P_Custom__Liberal Affinity TV News_US
+3P_Custom__Liberal Affinity TV News_US [Do Not Use in 2021]
+3P_Custom__Lifetime Viewers_1Jan2021_US
+3P_Custom__Lifetime Viewers_US [Do Not Use in 2021]
+3P_Custom__MLB World Series Viewers_US [Do Not Use in 2021]
+3P_Custom__MSNBC Viewers_US [Do Not Use in 2021]
+3P_Custom__MSNBC_ Political News Viewers_US [Do Not Use in 2021]
+3P_Custom__MTV VMA Viewers_18Aug2021_US
+3P_Custom__MTV VMA Viewers_US [Do Not Use in 2021]
+3P_Custom__Male TV Viewers_US [Do Not Use in 2021]
+3P_Custom__McCafe Kuerig K Cup Competitive Brand Buyers_15October2020_US [Do Not Use in 2021]
+3P_Custom__Meeting New People Comes Easy To Me_19-Feb-2021_US
+3P_Custom__Millennial Programming_US [Do Not Use in 2021]
+3P_Custom__MorningTV Viewers_US [Do Not Use in 2021]
+3P_Custom__Movie Lovers_1Jan2021_US
+3P_Custom__Movie Lovers_US [Do Not Use in 2021]
+3P_Custom__Music TV Fans_16Jun2021_US
+3P_Custom__Music TV Fans_US [Do Not Use in 2021]
+3P_Custom__NBA Finals Viewers_22Jun2020_US
+3P_Custom__NBA Finals Viewers_US [Do Not Use in 2021]
+3P_Custom__NCAA March Madness_16Jun2020_US
+3P_Custom__NCAA March Madness_US [Do Not Use in 2021]
+3P_Custom__NFL Network Viewers_4Dec2020_US
+3P_Custom__Nascar TV Viewers_US [Do Not Use in 2021]
+3P_Custom__Online Shopping_28-Feb-2021_MX
+3P_Custom__PBS Viewers_US [Do Not Use in 2021]
+3P_Custom__Personality-Openness-High_26-Jan-2021
+3P_Custom__Political Debate TV Viewers_US
+3P_Custom__Political Debate TV Viewers_US [Do Not Use in 2021]
+3P_Custom__QVC Viewers_US [Do Not Use in 2021]
+3P_Custom__Reality True Crime Shows_17Jun2020_US
+3P_Custom__Reality True Crime Shows_US [Do Not Use in 2021]
+3P_Custom__Reebok Competitive Analysis_Athleisure_25Sep2019_US [Do Not Use in 2021]
+3P_Custom__Retail and Consumer Goods - Wearable Tech - Wireless Headphones_WW
+3P_Custom__Shooter Gaming Genre_US [Do Not Use in 2021]
+3P_Custom__Showtime Viewers_US [Do Not Use in 2021]
+3P_Custom__Soap Operas_US [Do Not Use in 2021]
+3P_Custom__Spanish Language TV_US [Do Not Use in 2021]
+3P_Custom__Sports Gaming Genre_16Jun2020_US
+3P_Custom__Sports Gaming Genre_US [Do Not Use in 2021]
+3P_Custom__Sunday Morning News_US [Do Not Use in 2021]
+3P_Custom__Syfy Viewers_16Jun2020_US
+3P_Custom__TBS Viewers_31Dec2020_US
+3P_Custom__TBS Viewers_US [Do Not Use in 2021]
+3P_Custom__TNT Viewers_31Dec2020_US
+3P_Custom__TV News Junkies_16Jun2020_US
+3P_Custom__TV News Junkies_US [Do Not Use in 2021]
+3P_Custom__TV Talent Shows_03Jan2021_US
+3P_Custom__TV Talent Shows_US [Do Not Use in 2021]
+3P_Custom__Telemundo Viewers_US [Do Not Use in 2021]
+3P_Custom__Tennis Viewers_US [Do Not Use in 2021]
+3P_Custom__The Bachelor Viewers_23April2021_US
+3P_Custom__The Bachelor Viewers_US [Do Not Use in 2021]
+3P_Custom__The Big Bang Theory Viewers_US [Do Not Use in 2021]
+3P_Custom__The Walking Dead Viewers_US [Do Not Use in 2021]
+3P_Custom__Travel TV_31Dec2020_US
+3P_Custom__Travel TV_US [Do Not Use in 2021]
+3P_Custom__Use Mobile Device From Manufacturer: Google_19-Feb-2021_US
+3P_Custom__Use Mobile Device: Google Nexus Phone_19-Feb-2021_US
+3P_Custom__VH1 Viewers_16Jun2020_US
+3P_Custom__VH1 Viewers_US [Do Not Use in 2021]
+3P_Custom__Walmart Live Drive By_12062019_US [Do Not Use in 2021]
+3P_Custom__Whole Foods_23March2021_US
+3P_Custom_eBay Shoppers_4Jan2021_US
+3P_Custom_eSports Gamers_02Sept2020_US
+3P_Custom_eXelate B2BX_Prosumer-Tech Early Adopters_26-Jan-21_US
+3P_Custom_eXelate Interest_Tech Enthusiasts_26-Jan-2021_US
+3P_Custom_eXelate_eXelate B2BX - Prosumer - Affluent Technology Buyers_19-Feb-2021_WW
+3P_Custom_eXelate_eXelate B2BX - Prosumer - Affluent Travelers_19-Feb-2021_WW
+3P_Custom_eXelate_eXelate B2BX - Prosumer - Tech Early Adopters_19-Feb-2021_WW
+3P_Custom_eXelate_eXelate Demographic - Household - Composition - Presence of Children by Age - 8-12 Years_19-Feb-2021_US
+3P_Custom_eXelate_eXelate Demographic - Household - Presence of Children - With Children_19-Feb-2021_US
+"3P_Custom_eXelate_eXelate Demographic - Income Level - $100,000 to $124,999_23-Feb-2021_WW"
+"3P_Custom_eXelate_eXelate Demographic - Income Level - $125,000 to $149,999_23-Feb-2021_WW"
+3P_Custom_eXelate_eXelate Intent - CPG - Beverages - Coffee_26-Feb-2021_WW
+3P_Custom_eXelate_eXelate Intent - CPG - Health and Beauty - Cosmetics_28-Feb-2021_WW
+3P_Custom_eXelate_eXelate Intent - CPG - Health and Beauty - Vitamins_19-Feb-2021_WW
+3P_Custom_eXelate_eXelate Intent - CPG - Natural and Organics_19-Feb-2021_WW
+3P_Custom_eXelate_eXelate Intent - Propensity - Retail - Mass Market and Discount Stores_28-Feb-2021_WW
+3P_Custom_eXelate_eXelate Intent - Propensity - Travel_19-Feb-2021_WW
+3P_Custom_eXelate_eXelate Intent - Services - Personal Services and Care - Spa and Beauty_28-Feb-2021_WW
+3P_Custom_eXelate_eXelate Intent - Shopping - Babies and Kids_19-Feb-2021_WW
+3P_Custom_eXelate_eXelate Intent - Shopping - Health and Beauty_19-Feb-2021_WW
+3P_Custom_eXelate_eXelate Intent - Shopping - Personal Tech - Video Games_19-Feb-2021_WW
+3P_Custom_eXelate_eXelate Intent - Shopping - Retail - Sporting Goods_19-Feb-2021_WW
+3P_Custom_eXelate_eXelate Intent - Shopping - Sports and Recreation_19-Feb-2021_WW
+3P_Custom_eXelate_eXelate Intent - Shopping - Toys_19-Feb-2021_WW
+3P_Custom_eXelate_eXelate Intent - Travel_19-Feb-2021_WW
+3P_Custom_eXelate_eXelate Interest - Beauty and Style - Cosmetics_28-Feb-2021_WW
+3P_Custom_eXelate_eXelate Interest - Diet and Fitness - Diet and Weight Loss_19-Feb-2021_WW
+3P_Custom_eXelate_eXelate Interest - Diet and Fitness - Health and Wellness_19-Feb-2021_WW
+3P_Custom_eXelate_eXelate Interest - Diet and Fitness - Running_19-Feb-2021_WW
+3P_Custom_eXelate_eXelate Interest - Entertainment - Video Games_19-Feb-2021_WW
+3P_Custom_eXelate_eXelate Interest - Events - Food and Wine_19-Feb-2021_WW
+3P_Custom_eXelate_eXelate Interest - Events - Wedding and Engagement_19-Feb-2021_WW
+3P_Custom_eXelate_eXelate Interest - General Interest - Casual Gaming_19-Feb-2021_WW
+3P_Custom_eXelate_eXelate Interest - General Interest - Health_19-Feb-2021_WW
+3P_Custom_eXelate_eXelate Interest - General Interest - Travel Enthusiasts_19-Feb-2021_WW
+3P_Custom_eXelate_eXelate Interest - Hobbies - Baking and Cooking_19-Feb-2021_WW
+3P_Custom_eXelate_eXelate Interest - Purchase Behaviors - Shopping - Babies and Kids_19-Feb-2021_WW
+3P_Custom_eXelate_eXelate Interest - Purchase Behaviors - Shopping - Flowers and Gifts_26-Feb-2021_WW
+3P_Custom_eXelate_eXelate Interest - Purchase Behaviors - Shopping - Health and Beauty_19-Feb-2021_WW
+3P_Custom_eXelate_eXelate Interest - Purchase Behaviors - Shopping - Holiday Presents_26-Feb-2021_WW
+3P_Custom_eXelate_eXelate Interest - Purchase Behaviors - Shopping - Personal Tech - Video Games_19-Feb-2021_WW
+3P_Custom_eXelate_eXelate Interest - Purchase Behaviors - Travel_19-Feb-2021_WW
+3P_Custom_eXelate_eXelate Interest - Sports_28-Feb-2021_WW
+3P_Custom_eXelate_eXelate Interest - TV Viewership - Categories - Sports_28-Feb-2021_WW
+"3P_Custom_eXelate_eXelate Location-based - Retail - Coffee, Juice and Tea Shops_26-Feb-2021_WW"
+3P_Custom_eXelate_eXelate Location-based - Retail - Discount Retailer_28-Feb-2021_WW
+"3P_Custom_equifax IXI_Income 36 - Income Range $150,000 - $249,999_23-Feb-2021_WW"
+"3P_Custom_equifax IXI_Income 36 - Income Range $250,000+_23-Feb-2021_WW"
+3P_Custom_equifax IXI_Internet Propensity - Social Network User_28-Feb-2021_US
+3P_DIY Enthusiasts_UK
+3P_DIY Enthusiasts_US
+3P_DIY/Renovators_AU
+3P_DVD Buyers_DE
+3P_DVD Buyers_UK
+3P_Degree Educated / Graduates_AU
+3P_Degree Educated / Graduates_DE
+3P_Degree Educated / Graduates_ES
+3P_Degree Educated / Graduates_FR
+3P_Degree Educated / Graduates_IT
+3P_Degree Educated / Graduates_UK
+3P_Department Store Shoppers_15Jun2021_US
+3P_Department Store Shoppers_US [Do Not Use in 2021]
+3P_Diet / Weight Loss Intenders_DE
+3P_Diet / Weight Loss Intenders_ES
+3P_Diet / Weight Loss Intenders_FR
+3P_Diet / Weight Loss Intenders_IT
+3P_Diet / Weight Loss Intenders_UK
+3P_Diet / Weight Loss_US
+3P_Diet Soft Drink Buyers_US
+3P_Discount Shoppers / Value Seekers_AU
+3P_Discount Shoppers / Value Seekers_DE
+3P_Discount Shoppers / Value Seekers_ES
+3P_Discount Shoppers / Value Seekers_FR
+3P_Discount Shoppers / Value Seekers_IT
+3P_Discount Shoppers / Value Seekers_UK
+3P_Disney Movies Enthusiasts_DE
+3P_Disney Movies Enthusiasts_FR
+3P_Doctors/Nurses_UK
+3P_Documentary Enthusiasts_US
+3P_Documentary Movie & TV Show Enthusiasts_AU
+3P_Documentary Movie Enthusiasts_UK
+3P_Dog Owners_DE
+3P_Dog Owners_FR
+3P_Dog Owners_IT
+3P_Dog Owners_UK
+3P_Dog Owners_US
+3P_Drama Enthusiasts_US [Do Not Use in 2021]
+3P_Drama Movie Enthusiasts_ES
+3P_Drama Movie Enthusiasts_UK
+3P_Early Majority_DE
+3P_Electronics Shoppers_US
+3P_Energy Drink Buyers_US
+3P_Energy Drinks Consumers_UK
+3P_Engaged/Getting Married_FR
+3P_Engineer_UK
+3P_Entertainment Enthusiasts_CA
+3P_Entertainment Enthusiasts_DE
+3P_Entertainment Enthusiasts_ES
+3P_Entertainment Enthusiasts_FR
+3P_Entertainment Enthusiasts_IT
+3P_Entertainment Enthusiasts_US
+3P_Eyeliner Buyers_US
+3P_FPS Gamers - First Person Shooter_AU
+3P_FPS Gamers - First Person Shooter_DE
+3P_FPS Gamers - First Person Shooter_FR
+3P_FPS Gamers - First Person Shooter_UK
+3P_Family Entertainment Enthusiasts_CA
+3P_Family Entertainment Enthusiasts_DE
+3P_Family Entertainment Enthusiasts_ES
+3P_Family Entertainment Enthusiasts_FR
+3P_Family Entertainment Enthusiasts_IT
+3P_Family Enthusiasts_US
+3P_Family Holidayers_DE
+3P_Family Holidayers_ES
+3P_Family Holidayers_FR
+3P_Family Holidayers_IT
+3P_Family Holidayers_UK
+3P_Family Movie Enthusiasts_AU
+3P_Family Movie Enthusiasts_UK
+3P_Family Vacationers_US
+3P_Family/Children's Shoppers_CA
+3P_Family/Children's Shoppers_US
+3P_Fast Food no Chipotle_US
+3P_Fast Food of Neustar_US
+3P_Fast Food_AU
+3P_Fast Food_CA
+3P_Fast Food_DE
+3P_Fast Food_US
+3P_Finance Enthusiasts_AU
+3P_Fine Dining Enthusiasts_DE
+3P_Fine Dining Enthusiasts_FR
+3P_Fine Dining Enthusiasts_UK
+3P_Fine Dining Enthusiasts_US
+3P_First Home Buyers_AU
+3P_First Time Buyers_UK
+3P_First Time Home Buyer_US
+3P_Fitness Enthusiasts_CA
+3P_Fitness Enthusiasts_DE
+3P_Fitness Enthusiasts_ES
+3P_Fitness Enthusiasts_FR
+3P_Fitness Enthusiasts_IT
+3P_Fitness Enthusiasts_US
+3P_Flower Shoppers_DE
+3P_Foodies_AU
+3P_Foodies_CA
+3P_Foodies_DE
+3P_Foodies_ES
+3P_Foodies_FR
+3P_Foodies_IT
+3P_Foodies_UK
+3P_Foodies_US
+3P_Football Fans_US
+3P_Fragrance Purchasers_US [Do Not Use in 2021]
+3P_Freelancers / Self-Employed_ES
+3P_Frequent Movie Goers_US
+3P_Frequent Shoppers_US
+3P_Gamers_CA
+3P_Gamers_DE
+3P_Gamers_ES
+3P_Gamers_FR
+3P_Gamers_IT
+3P_Gamers_UK
+3P_Gamers_US
+3P_Gaming Console Owners_US
+3P_Geek Culture Shows and Movies_US [Do Not Use in 2021]
+3P_Gift Givers_UK
+3P_Gift Givers_US
+3P_Golf Lovers_FR
+3P_Golfers_US
+3P_Government Workers_UK
+3P_Graduate Degree_US
+3P_Green / Hybrid_US
+3P_Green Living Enthusiasts_AU
+3P_Green Living Enthusiasts_ES
+3P_Green Living Enthusiasts_FR
+3P_Green Living Enthusiasts_IT
+3P_Green Living Enthusiasts_UK
+3P_Green Living Enthusiasts_US
+3P_Grocery Buyers / Head of Household_AU
+3P_Grocery Buyers / Head of Household_CA
+3P_Grocery Buyers / Head of Household_US
+3P_Grocery Buyers_ES
+3P_Grocery Buyers_IT
+3P_HHI $0-$75K_US
+3P_HHI $100K+_US
+3P_HHI $150K+_US
+3P_HHI $50K+_US
+3P_HHI $75K+_US
+3P_HHI Over 75K_DE
+3P_HHI Over £50K_UK
+3P_HHI Over £75K_UK
+3P_HHI>100K_DE
+3P_HHI>100K_UK
+3P_Hair Color Buyers_US [Do Not Use in 2021]
+3P_Haircare Buyers_US [Do Not Use in 2021]
+3P_Health Insurance_AU
+3P_Health and Wellness / Healthy Living - _US
+3P_Health and Wellness / Healthy Living_CA
+3P_Health and Wellness / Healthy Living_DE
+3P_Health and Wellness / Healthy Living_ES
+3P_Health and Wellness / Healthy Living_FR
+3P_Health and Wellness / Healthy Living_IT
+3P_Health and Wellness / Healthy Living_IT DO NOT USE
+3P_Health and Wellness / Healthy Living_UK
+3P_Health and Wellness / Healthy Living_US
+3P_Healthcare Professionals_DE
+3P_Heavy Broadband Users_UK
+3P_High School Degree_AU
+3P_High School Degree_US
+3P_Hockey Enthusiasts_UK
+3P_Hockey Fans_US
+3P_Holiday Shoppers_Gift Givers and Receivers_US
+3P_Home Improvement & Decoration_FR
+3P_Home Improvement & Decoration_IT
+3P_Home Improvement / DIY_US
+3P_Home Movers_FR
+3P_Home Movers_IT
+3P_Home Movers_UK
+3P_Home Owners_AU
+3P_Home Owners_CA
+3P_Home Owners_DE
+3P_Home Owners_ES
+3P_Home Owners_IT
+3P_Home Owners_UK
+3P_Home Owners_US
+3P_Home Renovators_AU
+3P_Home Renters_AU
+3P_Home Renters_CA
+3P_Home Renters_ES
+3P_Home Renters_IT
+3P_Home Renters_UK
+3P_Home Renters_US
+3P_Home and Garden Enthusiasts_IT
+3P_Home and Garden Enthusiasts_UK
+3P_Home and Garden Shoppers_CA
+3P_Home and Garden_US
+3P_Horror Entertainment Enthusiasts_CA
+3P_Horror Movie Enthusiasts_AU
+3P_Horror Movie Enthusiasts_ES
+3P_Horror Movie Enthusiasts_FR
+3P_Horror Movie Enthusiasts_IT
+3P_Horror Movie Enthusiasts_UK
+3P_Horror/Thriller Movie Enthusiasts_DE
+3P_Horse Racing Enthusiasts_AU
+3P_Household Product Buyers_US
+3P_IRI_Custom_General Mills_Non Pillsbury Food and Bev buyers_24August2020_US [Do Not Use in 2021]
+3P_IT Professionals_AU
+3P_IT Professionals_DE
+3P_IT Professionals_UK
+3P_IT Professionals_US
+3P_IXI_Custom_Capital One_HHI $50K+_10June2020_US
+3P_IXI_Custom_Capital One_HHI $75K+_10June2020_US
+3P_Ice Cream Buyers_US
+3P_Income above 100K_FR
+3P_Income above 50K_ES
+3P_Income above 50K_FR
+3P_Income above 50K_IT
+3P_Income above 75K_FR
+3P_Indie Movie Goers_US
+3P_Interior Design_US
+3P_International Travelers_US
+3P_Job Seekers_FR
+3P_Job_Seekers_ES
+3P_Jobseekers_DE
+3P_Jobseekers_IT
+3P_Jobseekers_UK
+3P_Juice Drink Category Buyers_DE
+3P_Juice Drink Category Buyers_ES
+3P_Juice Drink Category Buyers_FR
+3P_Juice Drink Category Buyers_IT
+3P_Juice Drink Category Buyers_UK
+3P_Kia Owners / Intenders_ES
+3P_Kitchen Appliance Shoppers_US
+3P_Label Seekers_US
+3P_Laundry Detergent Category Buyers_US [Do Not Use in 2021]
+3P_Life Insurance Intenders_US
+3P_Likely Home Purchaser_US
+3P_Live Entertainment / Concert Goers_AU
+3P_Live Entertainment / Concert Goers_CA
+3P_Live Entertainment / Concert Goers_DE
+3P_Live Entertainment / Concert Goers_ES
+3P_Live Entertainment / Concert Goers_FR
+3P_Live Entertainment / Concert Goers_IT
+3P_Live Entertainment / Concert Goers_UK
+3P_Low Broadband Users_UK
+3P_Luxury Auto Intenders_CA
+3P_Luxury Auto Shoppers_US
+3P_Luxury Car Buyers_ES
+3P_Luxury Car Buyers_FR
+3P_Luxury Car Buyers_IT
+3P_Luxury Car Buyers_UK
+3P_Luxury Holidayers_DE
+3P_Luxury Holidayers_ES
+3P_Luxury Holidayers_FR
+3P_Luxury Holidayers_IT
+3P_Luxury Holidayers_UK
+3P_Luxury Retail Shoppers_DE
+3P_Luxury Retail Shoppers_ES
+3P_Luxury Retail Shoppers_FR
+3P_Luxury Retail Shoppers_IT
+3P_Luxury Retail Shoppers_UK
+3P_Luxury Retail_CA
+3P_Luxury Retail_US
+3P_Luxury Travelers_UK
+3P_Luxury Travelers_US
+3P_Luxury Travellers_IT
+3P_Manufacturing Employees_UK
+3P_Manufacturing Operations_US
+3P_Married_US
+3P_Marvel Enthusiast_US [Do Not Use in 2021]
+3P_Medium Broadband Users_UK
+3P_Medium Business Employees_US
+3P_Medium Sized Business_UK
+3P_Medium-Sized Business_AU
+3P_Men's Apparel_FR
+3P_Mens Apparel_ES
+3P_Mens Apparel_IT
+3P_Micro Companies_US [Do Not Use in 2021]
+3P_Mid-Market Car Buyers / Intenders_ES
+3P_Middle Managers_DE
+3P_Middle Managers_UK
+3P_Minivan Shoppers_US
+3P_Mobile Gamers_CA
+3P_Mobile Wallet Users_US
+3P_Mortgage_UK
+3P_Movers_US
+3P_Movie Goers_CA
+3P_Movie Goers_DE
+3P_Movie Goers_ES
+3P_Movie Goers_FR
+3P_Movie Goers_IT
+3P_Movie Goers_UK
+3P_Musician_US
+3P_Net Worth $1MM+_US
+3P_News / Current Affairs Enthusiasts_FR
+3P_News / Current Affairs Enthusiasts_UK
+3P_Odor Elimination Category Buyers_US [Do Not Use in 2021]
+3P_Online Shoppers_CA
+3P_Online Shoppers_ES
+3P_Online Shoppers_FR
+3P_Online Shoppers_IT
+3P_Online Shoppers_US
+3P_Online Travel Agent Users_US [Do Not Use in 2021]
+3P_Orange Juice Purchasers_2Jan2021_US
+3P_Organic Dairy Buyers_US
+3P_Organic Produce Buyers_AU
+3P_Outdoor Enthusiasts_AU
+3P_Outdoor Enthusiasts_CA
+3P_Outdoor Enthusiasts_DE
+3P_Outdoor Enthusiasts_ES
+3P_Outdoor Enthusiasts_FR
+3P_Outdoor Enthusiasts_IT
+3P_Outdoor Enthusiasts_UK
+3P_Outdoor Enthusiasts_US
+3P_Package Holidayers_DE
+3P_Package Holidayers_ES
+3P_Package Holidayers_FR
+3P_Package Holidayers_IT
+3P_Package Holidayers_UK
+3P_Paint Shoppers_US
+3P_Painters_US [Do Not Use in 2021]
+3P_Parents_US
+3P_Personal Care Buyers_US
+3P_Personal Investors_DE
+3P_Personal Investors_ES
+3P_Personal Investors_FR
+3P_Personal Investors_IT
+3P_Personal Investors_UK
+3P_Personal Investors_US
+3P_Pet Owner_AU
+3P_Pet Owner_CA
+3P_Pet Owner_US
+3P_Pet Owners_DE
+3P_Pet Owners_ES
+3P_Pet Owners_FR
+3P_Pet Owners_IT
+3P_Pet Owners_UK
+3P_Pharmacy Shoppers_US
+3P_Photography Enthusiasts_US
+3P_Pickup Truck_US
+3P_Pizza Lovers_05April2021_US
+3P_Planning a Wedding_US
+3P_Politics - Active in Politics_US
+3P_Politics - Any Democrat_US
+3P_Politics - Any Left_US
+3P_Politics - Any Republican_US
+3P_Politics - Any Right_US
+3P_Politics - Highly Engaged in Politics_US
+3P_Politics - Interested in Politics_US
+3P_Politics - Moderate Left_US
+3P_Politics - Political Donor Any_US
+3P_Politics - Registered Democrat_US
+3P_Politics - Registered Republican_US
+3P_Politics - Registered Voters_US
+3P_Politics - Strong Left_US
+3P_Politics - Strong Right_US
+3P_Premium Fuel Buyers_US [Do Not Use in 2021]
+3P_Prepaid Cellular Users_US
+3P_Prepaid Wireless_US
+3P_Professional Basketball Fans_US
+3P_Professional Sports Fans of _US
+3P_Professional Sports Fans_AU
+3P_Professional Sports Fans_CA
+3P_Professional Sports Fans_ES
+3P_Professional Sports Fans_FR
+3P_Professional Sports Fans_IT
+3P_Professional Sports Fans_US
+3P_Professional and College Basketball Fans_US
+3P_REI_Core Generation_Apr2019_US [Do Not Use in 2021]
+3P_REI_ShareThis_Outdoor Enthusiasts_08Apr2019_US [Do Not Use in 2021]
+3P_REI_ShareThis_Outdoor Newbies_08Apr2019_US [Do Not Use in 2021]
+3P_Readers_US
+3P_Reality TV Enthusiasts_UK
+3P_Recent Home Movers_UK
+3P_Retirees_DE
+3P_Retirees_FR
+3P_Retirees_UK
+3P_Ride Sharing_US
+3P_Ridesharing_DE
+3P_Role Playing Gamers_DE
+3P_Role Playing Gamers_FR
+3P_Romance Movie Enthusiasts_AU
+3P_Romance Movie Enthusiasts_ES
+3P_Romance Movie Enthusiasts_FR
+3P_Romance Movie Enthusiasts_UK
+3P_Routine Indulgers_02March2021_US
+3P_Rugby Enthusiasts_FR
+3P_Rugby Enthusiasts_IT
+3P_Rugby Enthusiasts_UK
+3P_Rugby_Enthusiasts_AU
+3P_Runners_AU
+3P_Runners_CA
+3P_Runners_DE
+3P_Runners_ES
+3P_Runners_FR
+3P_Runners_IT
+3P_Runners_UK
+3P_Runners_US
+3P_SUV Owners_US
+3P_SUV Shoppers_US
+3P_Sales & Marketing Professionals_US
+3P_Savers_ES
+3P_Sci-Fi & Fantasy Movie Enthusiasts_AU
+3P_Sci-Fi Enthusiasts_DE
+3P_Sci-Fi Enthusiasts_ES
+3P_Sci-Fi Enthusiasts_FR
+3P_Sci-Fi Enthusiasts_IT
+3P_Sci-Fi Enthusiasts_UK
+3P_SciFi Enthusiasts_US
+3P_Sedan Owners_US
+3P_Sedan Shoppers_US
+3P_Shaving Razor Buyers_US
+3P_Shipping Services_US
+3P_Shoe Enthusiasts_DE
+3P_Single_US
+3P_Skin Care Buyers_US [Do Not Use in 2021]
+3P_Skincare Products_US
+3P_Small Business Owners/Decision Makers_US
+3P_Small Car Buyers_DE
+3P_Smart TV Owners and Buyers_US
+3P_Smartphone Owners_UK
+3P_Smartphone Users_AU
+3P_Smartphone Users_CA
+3P_Smartphone Users_DE
+3P_Smartphone Users_ES
+3P_Smartphone Users_FR
+3P_Smartphone Users_IT
+3P_Snack Bar Purchasers_US [Do Not Use in 2021]
+3P_Sneakerheads_AU
+3P_Sneakerheads_US
+3P_Sneakers Enthusiasts_IT
+3P_Sneakers Enthusiasts_UK
+3P_Soccer Enthusiasts_AU
+3P_Soccer Fans_DE
+3P_Soccer Fans_ES
+3P_Soccer Fans_FR
+3P_Soccer Fans_IT
+3P_Soccer Fans_UK
+3P_Soccer Fans_US
+3P_Social Media Enthusiasts_US
+3P_Socialites/Partiers_AU
+3P_Socialites/Partiers_CA
+3P_Socialites/Partiers_ES
+3P_Socialites/Partiers_ES DO NOT USE
+3P_Socialites/Partiers_FR
+3P_Socialites/Partiers_FR DO NOT USE
+3P_Socialites/Partiers_IT
+3P_Socialites/Partiers_US
+3P_Soft Drink Buyers_US
+3P_Spirits Drinkers_UK
+3P_Sports Drink Buyers_US
+3P_Sports Gamers_FR
+3P_SpotifyB2B_ B2B>Size of organisation - 101 to 500 employees
+3P_Streaming TV Users_FR
+3P_Streaming TV Users_UK
+3P_Students_DE
+3P_Students_ES
+3P_Students_FR
+3P_Students_IT
+3P_Students_UK
+3P_Style Watchers / Fashionistas_AU
+3P_Style Watchers / Fashionistas_CA
+3P_Style Watchers / Fashionistas_ES
+3P_Style Watchers / Fashionistas_FR
+3P_Style Watchers / Fashionistas_IT
+3P_Style Watchers / Fashionistas_US
+3P_Sugary Cereals_US [Do Not Use in 2021]
+3P_Super Hero Movies Enthusiasts_AU
+3P_Super Hero Movies Enthusiasts_DE
+3P_Super Hero Movies Enthusiasts_ES
+3P_Super Hero Movies Enthusiasts_FR
+3P_Super Hero Movies Enthusiasts_IT
+3P_Super Hero Movies Enthusiasts_UK
+3P_Sustainable Living_AU
+3P_Sustainable Living_UK
+3P_Sweet / Confectionery Enthusiasts_DE
+3P_Sweet / Confectionery Enthusiasts_IT
+3P_Sweet / Confectionery Enthusiasts_UK
+3P_TV Enthusiasts_DE
+3P_TV Enthusiasts_FR
+3P_TV and Movie Comedy Enthusiasts_ES
+3P_TV_Oscars Viewers_US [Do Not Use in 2021]
+3P_Tablet Users_CA
+3P_Tablet Users_DE
+3P_Tablet Users_ES
+3P_Tablet Users_FR
+3P_Tablet Users_IT
+3P_Tablet Users_UK
+3P_Tablet and eReader Users/ Intenders_US
+3P_Target or Walmart Shoppers_US
+3P_Tastemakers/Explorers_AU
+3P_Tastemakers/Explorers_CA
+3P_Tastemakers/Explorers_DE
+3P_Tastemakers/Explorers_ES
+3P_Tastemakers/Explorers_FR
+3P_Tastemakers/Explorers_IT
+3P_Tastemakers/Explorers_UK
+3P_Tastemakers/Explorers_US
+3P_Tea Drinkers_DE
+3P_Tech Early Adopter_ES
+3P_Tech Early Adopter_FR
+3P_Tech Early Adopter_IT
+3P_Tech Early Adopters_AU
+3P_Tech Early Adopters_CA
+3P_Tech Early Adopters_DE
+3P_Tech Early Adopters_UK
+3P_Tech Early Adopters_US
+3P_Tech Enthusiasts_UK
+3P_Tennis Enthusiasts_AU
+3P_Tennis Enthusiasts_FR
+3P_Tennis Enthusiasts_IT
+3P_Tennis Enthusiasts_UK
+3P_Tequila Drinkers_US
+3P_Theatre Enthusiasts_UK
+3P_Theme Park Goers_US [Do Not Use in 2021]
+3P_Thriller Enthusiasts_US
+3P_Thriller Movie Enthusiasts_AU
+3P_Thriller Movie Enthusiasts_ES
+3P_Thriller Movie Enthusiasts_FR
+3P_Thriller Movie Enthusiasts_UK
+3P_Toy Purchasers_US
+3P_Travelers_CA
+3P_Travelers_DE
+3P_Travelers_FR
+3P_Travelers_IT
+3P_Travelers_UK
+3P_Travelers_US
+3P_US Sports Fans_AU
+3P_Unsecured Personal Loan Holders / Intenders_ES
+3P_Used Car Buyers_DE
+3P_Used Car Buyers_ES
+3P_Used Car Buyers_IT
+3P_Used Car Buyers_UK
+3P_VW Owners / Intenders_FR
+3P_Valentines Day Shoppers_DE
+3P_Valentines Day Shoppers_ES
+3P_Valentines Day Shoppers_FR
+3P_Valentines Day Shoppers_IT
+3P_Valentines Day Shoppers_UK
+3P_Value/Coupon Shoppers_US
+3P_Vegan Diet / Lifestyle_UK
+3P_Vitamin Buyers_US [Do Not Use in 2021]
+3P_Wearables & Smart Watch Buyers Owners and Shoppers_US
+3P_Wellness and Organic Obsessed_US
+3P_White Collar_US
+3P_Wine Purchasers_US
+3P_Winter Holiday Shoppers_US [Do Not Use in 2021]
+3P_Wireless Plans_US
+3P_Women's Apparel_CA
+3P_Women's Apparel_FR
+3P_Women's Apparel_US
+3P_Womens Apparel_ES
+3P_Womens Apparel_IT
+3P_Workers in Full-Time Employment_AU
+3P_Workers in Full-Time Employment_DE
+3P_Workers in Full-Time Employment_FR
+3P_Workers in Full-Time Employment_UK
+3P_Workers in Full-Time Employment_US
+3P_Xfinity Subscribers_US
+3P__ Health and Fitness > Interest > Exercise / Health_09-March-2021_US
+3P__ Lifestyle > Entertainment > Gaming > Video Games_09-March-2021_US
+3P__ Technology > Video Games > Video Gamers_09-March-2021_US
+3P__ US Basic - Public > ACXM Lifestyle > Entertainment > Gaming > Video Games_09-March-2021_US
+3P__ US Premium - Public > ACXM Demographic > Attitude and Behavior Propensities > Fitness Warriors_09-March-2021_US
+3P__ US Premium - Public > ACXM Technology > Video Games > Video Gamers_09-March-2021_US
+3P__Custom_ for Mars - Butterfinger Buyers - PD612523_21Feb2020_US [Do Not Use in 2021]
+3P__Custom_ for Mars - Extra Competitors - PD613197_21Feb2020_US [Do Not Use in 2021]
+3P__Custom_ for Mars - Extra Gum Buyers - PD613009_21Feb2020_US [Do Not Use in 2021]
+3P__Custom_ for Mars - Gum Category Buyers - PD612412_21Feb2020_US [Do Not Use in 2021]
+3P__Custom_ for Mars - Kitkat Buyers - PD612510_21Feb2020_US [Do Not Use in 2021]
+3P__Custom_ for Mars - Light Extra Buyers - PD612444_21Feb2020_US [Do Not Use in 2021]
+3P__Custom_ for Mars - Tictac Buyers - PD612457_21Feb2020_US [Do Not Use in 2021]
+3P__Custom_In Market_New_Make_Kia_05Aug2020_US
+3P__Custom_Vita Coco_Buyers of Select Coconut Water Brands_14Aug2020_US [Do Not Use in 2021]
+3P_e-Commerce Shoppers_AU
+3P_e-Commerce shoppers_US
+3p_Anime_Manga_Enthusiast_Es
+3p_Custom_ TV Military Exposure_US
+3p_Custom_CPG_Canned_Pasta_Microwave_Meals_US [Do Not Use in 2021]
+3p_Custom_Chase_General HNW_20March2020_US [Do Not Use in 2021]
+3p_Custom_Intel Audience Segment_US
+3p_Custom_Kcup_UsersandOwners_US [Do Not Use in 2021]
+Adam Test Segment
+Business
+Cookie Audience NOT Matched to PPIDs
+Fitness
+Health & Lifestyle
+In-Car Listening
+Love & Dating
+NerdwalletBestOf_Nerdwallet_Q4Q12021_Exposed
+PMR TEST - 3P_Beer Consumers_US
+PMR TEST - 3P_Custom_Current Snuggle Buyers_04May2020_US
+PMR TEST - 3P_Custom_Office Supplies Buyers_16April2020_US
+Podcasts
+Recaptcha_scores_filtered
+Spotify Cookie (sp_adid) Synced Audience
+TEST_CUSTOM_FacialCleaning_US
+Test_3P_Custom_HHI $125K+CAD_21Feb2021_CA
+Travel
+[TEST DO NOT USE] 3P_Custom_Fortnite and Fortnite Similar_29Jan2021_US
+[TEST] 3P_ TV_Premium_TV Networks_MTV_US
+[TEST] 3P_Cooking Enthusiasts_UK
+[TEST] 3P_Custom_Parents of College Students_US
+[TEST] 3P_Custom__Adult Swim Viewers_US
+[TEST] 3P_Recent College Graduate_US
+[TEST] 3P__Cosmetics Category_Heavy Buyers_US
+[Test] - 3P_ TV_Custom_Paramount_Yellowstone_08Apr2020_US
+[Test] - 3P_ TV_Premium_TV Networks_HBO_US
+[Test] - 3P_Custom_Capital One_SBO_28Jan2020_US
+[Test] - 3P_Custom_Folgers Purchasers_US
+[Test] - 3P_Custom_HHI $1MM+_19Dec2019_US
+[Test] - 3P_Custom_HHI $80K+_06Jan2020_CA
+[Test] - 3P_Custom_HHI 150k+_2Feb2020_CA
+[Test] - 3P_Custom_Heavy QSR_02April2020_US
+[Test] - 3P_Custom_TransUnion_Potential First Time Homebuyer_11Dec2019_US
+[Test] - 3P_Custom_Wells Fargo_Cross Pixel Intent Home Buyers_23Apr2020_US
+[Test] - 3P_Custom__CNN_US
+[Test] - 3P_Custom__Competition Show Viewers_US
+[Test] - 3P_Custom__First Person Shooter_17April2020_US
+[Test] - 3P_Custom__Hardcore Football Fans_US
+[Test] - 3P_Custom__MSNBC Viewers_US
+[Test] - 3P_Custom__Teen Choice Awards Viewers_US
+[Test] - 3P_Theme Park Goers_US
+[Test] - 3P__Custom_Exxon_Luxury Auto_Priority Markets_05Feb2020_US
+[Test] - 3P_e-Commerce Shoppers_AU
+podcast-audience-segmentation-rules-engagement-daypart-afternoon
+podcast-audience-segmentation-rules-engagement-daypart-early-morning
+podcast-audience-segmentation-rules-engagement-daypart-evening
+podcast-audience-segmentation-rules-engagement-daypart-morning
+podcast-audience-segmentation-rules-engagement-device-mobile
+podcast-audience-segmentation-rules-format-length-long
+podcast-audience-segmentation-rules-format-length-short
