@@ -1,0 +1,45 @@
+title: Mi Spotify
+description_html: |-
+  <p>Datos de mi spotify de oct 2020 a oct 2021</p>
+databases:
+  mi_spotify:
+    queries:
+      most_streamed:
+        sql: |-
+            select
+                count(track_name) as number_of_times_played,
+                artist_name || " - " || track_name as name,
+                sum(msplayed) / 60000 as total_minutes_played
+            from
+                streaming_history
+            group by
+                name
+            order by
+                number_of_times_played desc
+        title: Canciones mas escuchadas por veces
+        description_html: |-
+          <em>Por numero de veces</em>
+      most_heard:
+        sql: |-
+            select
+                count(track_name) as number_of_times_played,
+                artist_name || " - " || track_name as name,
+                sum(ms_played) / 60000 as total_minutes_played
+            from
+                streaming_history
+            group by
+                name
+            order by
+                total_minutes_played desc
+        title: Canciones mas escuchadas por minutos
+        description_html: |-
+          <em>Por tiempo escuchadas</em>
+      songs_heard:
+        sql: |-
+          select
+            distinct artist_name || " - " || track_name as name
+          from
+            streaming_history
+        title: Canciones escuchadas
+        description_html: |-
+          <p>Todas las canciones escuchadas.</p>
